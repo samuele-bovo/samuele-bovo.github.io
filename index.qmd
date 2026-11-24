@@ -27,7 +27,7 @@ integration.
 My research spans animal genetics and genomics,
 from complex traits and pig metabolomics and
 phenomics to population genomics, biodiversity
-and molecular traceability.
+and molecular traceability. 
 
 :::
 
