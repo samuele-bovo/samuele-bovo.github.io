@@ -69,3 +69,55 @@ a:hover {
 p {
   margin-bottom: 1.2rem;
 }
+
+
+/* Research cards */
+
+.research-grid {
+  row-gap: 1.5rem;
+}
+
+.research-card {
+  border: 1px solid #e1e7ed;
+  border-radius: 10px;
+  padding: 1.6rem;
+  background: #ffffff;
+  height: 100%;
+  transition: border-color 0.2s ease;
+}
+
+.research-card:hover {
+  border-color: #9aafc0;
+}
+
+.research-number {
+  display: block;
+  color: #64819a;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.research-card h3 {
+  color: #17324d;
+  font-size: 1.15rem;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  border: none;
+}
+
+.research-card p {
+  color: #53677a;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  margin-bottom: 0;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .research-card {
+    padding: 1.3rem;
+  }
+}
+
