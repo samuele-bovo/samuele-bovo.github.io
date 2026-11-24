@@ -2,10 +2,10 @@
 ---
 title: "Samuele Bovo"
 title-block-style: none
-description: "Samuele Bovo | Assistant Professor in Animal Genetics | University of Bologna | Research in genomics, metabolomics, phenomics and computational biology."
+description: "Samuele Bovo, Assistant Professor in Animal Genetics at the University of Bologna. Research in animal genomics, pig metabolomics, phenomics and computational biology."
 ---
 
-::: {.grid}
+::: {.grid .hero-section}
 
 ::: {.g-col-12 .g-col-md-8}
 
@@ -16,30 +16,23 @@ description: "Samuele Bovo | Assistant Professor in Animal Genetics | University
 Assistant Professor in Animal Genetics  
 University of Bologna, Italy
 
-**Marie Skłodowska-Curie Actions (MSCA)
-Postdoctoral Global Fellow — Project ABPhenomics**
+**Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow — ABPhenomics**
 
-My background is in bioinformatics and systems
-biology, including computational methods for
-molecular interaction networks and omics data
-integration.
+My background is in bioinformatics and systems biology, including computational methods for molecular interaction networks and omics data integration.
 
-My research spans animal genetics and genomics,
-from complex traits and pig metabolomics and
-phenomics to population genomics, biodiversity
-and molecular traceability. 
+My research spans animal genetics and genomics, from the genetic architecture of complex traits and pig metabolomics and phenomics to population genomics, biodiversity and molecular traceability.
+
+Depending on the research question, I develop computational methods, integrate omics datasets, or apply statistical and machine learning approaches to biological data.
 
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 
-![](profile.jpg){width=100% fig-alt="Samuele Bovo"}
+![Samuele Bovo](profile.jpg){.profile-photo}
 
 :::
 
 :::
-
-
 
 ## Research areas
 
@@ -52,9 +45,7 @@ and molecular traceability.
 
 ### Animal Genomics & Phenomics
 
-Genetic architecture of complex traits,
-genome-wide association studies, pig
-metabolomics and molecular phenotypes.
+Genetic architecture of complex traits, genome-wide association studies, pig metabolomics and molecular phenotypes.
 
 :::
 :::
@@ -66,10 +57,7 @@ metabolomics and molecular phenotypes.
 
 ### Multi-Omics & Systems Biology
 
-Integration of genomic, metabolomic and
-phenotypic datasets, molecular networks
-and functional interpretation of
-biological processes.
+Integration of genomic, metabolomic and phenotypic datasets, molecular networks and functional interpretation of biological processes.
 
 :::
 :::
@@ -81,9 +69,7 @@ biological processes.
 
 ### Biodiversity & Population Genomics
 
-Genetic diversity, population structure,
-environmental genomics and molecular
-approaches to biodiversity monitoring.
+Genetic diversity, population structure, environmental genomics and molecular approaches to biodiversity monitoring.
 
 :::
 :::
@@ -95,24 +81,13 @@ approaches to biodiversity monitoring.
 
 ### Bioinformatics & Machine Learning
 
-Development and application of computational
-methods, statistical modelling and machine
-learning approaches to biological datasets.
+Development and application of computational methods, statistical modelling and machine learning approaches to biological datasets.
 
 :::
 :::
 
 :::
-
-
-## Research fellowship
-
-**Marie Skłodowska-Curie Actions (MSCA)
-Postdoctoral Global Fellowship**
-
-**ABPhenomics**
 
 ## Scientific profiles
 
-[University of Bologna](https://www.unibo.it/sitoweb/samuele.bovo/en)
-· [GitHub](https://github.com/samuele-bovo)
+[University of Bologna](https://www.unibo.it/sitoweb/samuele.bovo/en) · [GitHub](https://github.com/samuele-bovo)
