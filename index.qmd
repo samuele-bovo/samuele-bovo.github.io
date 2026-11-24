@@ -41,7 +41,6 @@ Exploring animal genomes, molecular phenotypes and biological diversity through 
 ::: {.research-grid}
 
 ::: {.research-card}
-<span class="research-number">01</span>
 
 ### [Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes)
 
@@ -50,7 +49,6 @@ Investigating the genetic architecture of intermediate phenotypes through genome
 
 ::: {.research-card}
 
-<span class="research-number">02</span>
 
 ### [Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 
@@ -59,7 +57,6 @@ Exploring molecular phenotypes, metabolic biomarkers and physiological variabili
 
 ::: {.research-card}
 
-<span class="research-number">03</span>
 
 ### [Genomics of Complex & Production Traits](research.qmd#genomics-complex-production-traits)
 
@@ -68,7 +65,6 @@ Dissecting the genetic basis of complex traits affecting animal production, morp
 
 ::: {.research-card}
 
-<span class="research-number">04</span>
 
 ### [Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
 
@@ -77,7 +73,6 @@ Investigating genetic diversity, population structure, signatures of selection a
 
 ::: {.research-card}
 
-<span class="research-number">05</span>
 
 ### [Environmental DNA, Metagenomics & One Health](research.qmd#environmental-dna-metagenomics-one-health)
 
@@ -86,7 +81,6 @@ Applying environmental DNA and metagenomic approaches to biodiversity monitoring
 
 ::: {.research-card}
 
-<span class="research-number">06</span>
 
 ### [Bioinformatics, Systems Biology & Genome Interpretation](research.qmd#bioinformatics-systems-biology)
 
