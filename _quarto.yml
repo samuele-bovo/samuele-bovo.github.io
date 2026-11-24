@@ -6,7 +6,9 @@ project:
 website:
   title: "Samuele Bovo"
   site-url: https://samuele-bovo.github.io
+
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -17,6 +19,7 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false
     page-layout: full
     link-external-newwindow: true
