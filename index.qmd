@@ -1,31 +1,44 @@
 
 ---
 title: "Samuele Bovo"
-subtitle: "Animal Genetics · Bioinformatics · Computational Biology"
-title-block-style: default
-description: "Samuele Bovo, Assistant Professor in Animal Genetics at the University of Bologna. Research in animal genomics, metabolomics, phenomics and computational biology."
+title-block-style: none
+description: "Samuele Bovo | Assistant Professor in Animal Genetics | University of Bologna | Research in genomics, metabolomics, phenomics and computational biology."
 ---
 
-::: {.lead}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+
+# Samuele Bovo
+
+**Animal Genetics · Bioinformatics · Computational Biology**
+
 Assistant Professor in Animal Genetics  
 University of Bologna, Italy
-:::
+
+**Marie Skłodowska-Curie Actions (MSCA)
+Postdoctoral Global Fellow — Project ABPhenomics**
 
 My background is in bioinformatics and systems
-biology, with experience in computational methods
-for molecular interaction networks and omics data
+biology, including computational methods for
+molecular interaction networks and omics data
 integration.
 
-My research covers different areas of animal
-genetics and genomics, from the genetic architecture
-of complex traits and pig metabolomics and phenomics
-to population genomics, biodiversity and molecular
-traceability.
+My research spans animal genetics and genomics,
+from complex traits and pig metabolomics and
+phenomics to population genomics, biodiversity
+and molecular traceability.
 
-Depending on the research question, I develop
-computational methods, integrate omics datasets,
-or apply statistical and machine learning
-approaches to biological data.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+![](profile.jpg){width=100% fig-alt="Samuele Bovo"}
+
+:::
+
+:::
+
 
 ## Research areas
 
