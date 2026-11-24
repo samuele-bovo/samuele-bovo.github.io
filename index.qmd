@@ -41,37 +41,54 @@ Exploring animal genomes, molecular phenotypes and biological diversity through 
 ::: {.research-grid}
 
 ::: {.research-card}
-### Genomics & Molecular Phenotypes
+<span class="research-number">01</span>
+
+### [Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes)
 
 Investigating the genetic architecture of intermediate phenotypes through genome-wide association studies and the integration of genomic, metabolomic, haematological and biochemical data.
 :::
 
 ::: {.research-card}
-### Metabolomics, Phenomics & Machine Learning
+
+<span class="research-number">02</span>
+
+### [Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 
 Exploring molecular phenotypes, metabolic biomarkers and physiological variability using high-throughput metabolomics, computational methods and machine learning.
 :::
 
 ::: {.research-card}
-### Genomics of Complex & Production Traits
+
+<span class="research-number">03</span>
+
+### [Genomics of Complex & Production Traits](research.qmd#genomics-complex-production-traits)
 
 Dissecting the genetic basis of complex traits affecting animal production, morphology, performance and product quality in livestock and aquaculture species.
 :::
 
 ::: {.research-card}
-### Population Genomics & Biodiversity
+
+<span class="research-number">04</span>
+
+### [Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
 
 Investigating genetic diversity, population structure, signatures of selection and evolutionary processes to support the characterization and conservation of animal genetic resources.
 :::
 
 ::: {.research-card}
-### Environmental DNA, Metagenomics & One Health
+
+<span class="research-number">05</span>
+
+### [Environmental DNA, Metagenomics & One Health](research.qmd#environmental-dna-metagenomics-one-health)
 
 Applying environmental DNA and metagenomic approaches to biodiversity monitoring, pathogen and virome characterization, and DNA-based food authentication.
 :::
 
 ::: {.research-card}
-### Bioinformatics, Systems Biology & Genome Interpretation
+
+<span class="research-number">06</span>
+
+### [Bioinformatics, Systems Biology & Genome Interpretation](research.qmd#bioinformatics-systems-biology)
 
 Developing and applying computational approaches for biological network analysis, functional enrichment, genome interpretation and genetic variant prioritization.
 :::
