@@ -223,3 +223,16 @@ header#title-block-header {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Research card links */
+
+.research-card h3 a {
+  color: #17324d;
+  text-decoration: none;
+}
+
+.research-card h3 a:hover {
+  color: #245b85;
+  text-decoration: underline;
+}
