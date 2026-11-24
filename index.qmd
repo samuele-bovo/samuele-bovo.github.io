@@ -14,9 +14,9 @@ include-in-header:
 
 # Samuele Bovo
 
-**Animal Genetics · Bioinformatics · Computational Biology**
+**Livestock genomics · Molecular phenomics · Bioinformatics**
 
-Assistant Professor in Animal Genetics  
+Assistant Professor in Livestock Systems, Animal Breeding and Genetics  
 University of Bologna, Italy
 
 **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow — ABPhenomics**
