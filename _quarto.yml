@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Samuele Bovo"
-  site-url: https://samuele-bovo.github.io
+  site-url: "https://samuele-bovo.github.io"
 
   navbar:
     background: light
