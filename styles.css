@@ -236,3 +236,32 @@ header#title-block-header {
   color: #245b85;
   text-decoration: underline;
 }
+
+
+/* Compact publication lists */
+
+.publication-list {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: #53677a;
+}
+
+.publication-list p {
+  margin-bottom: 0.85rem;
+}
+
+.publication-list strong {
+  color: #34495e;
+  font-weight: 600;
+}
+
+.publication-list a {
+  color: #245b85;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.publication-list a:hover {
+  text-decoration: underline;
+}
+
