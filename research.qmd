@@ -34,10 +34,8 @@ of genetic factors affecting metabolic traits
 and to the interpretation of their relationships
 with biological pathways and complex phenotypes.
 
-
-
 ### Selected publications
-
+::: {.publication-list}
 
 **Bovo S. et al. (2026)**  
 [Combining metabolomics and genomics to describe genetic factors affecting the metabolism in growing Duroc pigs](https://doi.org/10.1186/s12711-026-01113-1)  
@@ -58,9 +56,7 @@ with biological pathways and complex phenotypes.
 **Bovo S. et al. (2016)**  
 [Genome-wide association study for the level of serum electrolytes in Italian Large White pigs](https://doi.org/10.1111/age.12459)  
 *Animal Genetics*, 47(5), 597–602.
-
-
-
+:::
 
 ## Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
 
@@ -80,9 +76,8 @@ analyse complex phenotypic datasets and
 investigate relationships between molecular
 profiles and animal phenotypes.
 
-
-
 ### Selected publications
+::: {.publication-list}
 
 **Bertolini F., Bovo S., Bolner M. et al. (2026)**  
 [Identification of biomarkers for feed efficiency and growth rate by exploring the plasma metabolome of divergent heavy pigs](https://doi.org/10.1016/j.animal.2025.101725)  
@@ -103,9 +98,7 @@ profiles and animal phenotypes.
 **Bovo S. et al. (2015)**  
 [Deconstructing the pig sex metabolome: Targeted metabolomics in heavy pigs revealed sexual dimorphisms in plasma biomarkers and metabolic pathways](https://doi.org/10.2527/jas.2015-9528)  
 *Journal of Animal Science*, 93(12), 5681–5693.
-
-
-
+:::
 
 ## Genomics of Complex & Production Traits {#genomics-complex-production-traits}
 
@@ -123,9 +116,8 @@ genetic determinants of economically relevant
 phenotypes and other characteristics of
 domesticated animal populations.
 
-
-
 ### Selected publications
+::: {.publication-list}
 
 **Bovo S. et al. (2025)**  
 [Signatures of selection detected from whole-genome sequencing indicate that the small body size in dwarf rabbit breeds is caused by polygenic effects with a few major loci](https://doi.org/10.1111/age.70025)  
@@ -146,8 +138,7 @@ domesticated animal populations.
 **Bertolini F. et al. (2018)**  
 [Genome-wide association studies for seven production traits highlight genomic regions useful to dissect dry-cured ham quality and production traits in Duroc heavy pigs](https://doi.org/10.1017/S1751731118000757)  
 *Animal*, 12(9), 1777–1784.
-
-
+:::
 
 ## Population Genomics & Biodiversity {#population-genomics-biodiversity}
 
@@ -167,9 +158,8 @@ and the genomic characteristics of local
 and commercial breeds, supporting the
 characterization of animal genetic resources.
 
-
-
 ### Selected publications
+::: {.publication-list}
 
 **Ballan M. et al. (2023)**  
 [Population genomic structures and signatures of selection define the genetic uniqueness of several fancy and meat rabbit breeds](https://doi.org/10.1111/jbg.12818)  
@@ -190,10 +180,7 @@ characterization of animal genetic resources.
 **Muñoz M. et al. (2019)**  
 [Genomic diversity, linkage disequilibrium and selection signatures in European local pig breeds assessed with a high density SNP chip](https://doi.org/10.1038/s41598-019-49830-6)  
 *Scientific Reports*, 9, 13546.
-
-
-
-
+:::
 
 ## Environmental DNA, Metagenomics & One Health {#environmental-dna-metagenomics-one-health}
 
@@ -215,8 +202,8 @@ These applications connect animal genomics
 with environmental monitoring, biodiversity
 research and One Health questions.
 
-
 ### Selected publications
+::: {.publication-list}
 
 **Bovo S. et al. (2025)**  
 [Mining Porcine Blood Whole-DNA Sequencing Datasets to Uncover Pig Viromes: An Exploratory Application to Identify Potential Infecting Agents of an Undefined Disease Outbreak](https://doi.org/10.3390/vetsci12060513)  
@@ -237,8 +224,7 @@ research and One Health questions.
 **Bovo S. et al. (2018)**  
 [Shotgun metagenomics of honey DNA: Evaluation of a methodological approach to describe a multi-kingdom honey bee derived environmental DNA signature](https://doi.org/10.1371/journal.pone.0205575)  
 *PLOS ONE*, 13(10), e0205575.
-
-
+:::
 
 ## Bioinformatics, Systems Biology & Genome Interpretation {#bioinformatics-systems-biology}
 
@@ -262,8 +248,8 @@ These methodological activities provide
 a computational background for research
 across different biological systems.
 
-
 ### Selected publications
+::: {.publication-list}
 
 **Stenton S.L. et al. (2024)**  
 [Critical assessment of variant prioritization methods for rare disease diagnosis within the rare genomes project](https://doi.org/10.1186/s40246-024-00604-w)  
@@ -284,4 +270,4 @@ across different biological systems.
 **Bovo S. et al. (2016)**  
 [NET-GE: a web-server for NETwork-based human gene enrichment](https://doi.org/10.1093/bioinformatics/btw508)  
 *Bioinformatics*, 32(22), 3489–3491.
-
+:::
