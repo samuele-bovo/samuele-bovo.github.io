@@ -1,9 +1,11 @@
 
+
 ---
 title: "Research"
 description: "Research activities of Samuele Bovo in animal genomics, metabolomics, phenomics, population genomics, environmental DNA and computational biology."
 toc: true
 toc-title: "Research areas"
+toc-depth: 2
 ---
 
 My research activities cover different aspects of
