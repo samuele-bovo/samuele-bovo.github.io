@@ -1,44 +1,127 @@
 
 ---
 title: "Research"
-description: "Research activities and scientific contributions of Samuele Bovo in animal genetics, genomics and computational biology."
+description: "Research activities of Samuele Bovo in animal genomics, metabolomics, phenomics, population genomics, environmental DNA and computational biology."
 toc: true
-toc-title: "On this page"
+toc-title: "Research areas"
 ---
 
-My research activities span different areas of
-animal genetics, genomics and computational biology.
+My research activities cover different aspects of
+animal genetics, genomics and computational biology,
+combining methodological development with applications
+to specific biological questions.
 
-The sections below provide an overview of my
-research interests, scientific contributions
-and related publications.
+The following sections describe the main research
+areas and their scientific context.
 
-## Research Area 1
+## Genomics & Molecular Phenotypes
 
-Description of research activities and
-scientific contributions.
+This research area investigates the genetic
+architecture of molecular and intermediate
+phenotypes in animal populations, with particular
+emphasis on pigs.
 
-## Research Area 2
+Genome-wide association studies are combined with
+high-throughput metabolomic profiles, haematological
+parameters and clinical-biochemical measurements
+to identify genomic regions associated with
+phenotypic variability.
 
-Description of research activities and
-scientific contributions.
+These analyses contribute to the characterization
+of genetic factors affecting metabolic traits
+and to the interpretation of their relationships
+with biological pathways and complex phenotypes.
 
-## Research Area 3
+## Metabolomics, Phenomics & Machine Learning
 
-Description of research activities and
-scientific contributions.
+This research area focuses on the characterization
+of phenotypic variability through high-throughput
+molecular measurements.
 
-## Research Area 4
+Metabolomic profiling is used to investigate
+differences between animal populations, sexes
+and physiological conditions, as well as to
+identify potential biomarkers associated with
+production and functional traits.
 
-Description of research activities and
-scientific contributions.
+Computational and statistical approaches,
+including machine learning, are explored to
+analyse complex phenotypic datasets and
+investigate relationships between molecular
+profiles and animal phenotypes.
 
-## Research Area 5
+## Genomics of Complex & Production Traits
 
-Description of research activities and
-scientific contributions.
+Genome-wide association studies and sequencing
+approaches are applied to investigate the genetic
+architecture of complex traits in livestock
+and aquaculture species.
 
-## Research Area 6
+Research activities include the identification
+of genomic regions and candidate genes associated
+with production, morphological and quality traits.
 
-Description of research activities and
-scientific contributions.
+These studies contribute to understanding the
+genetic determinants of economically relevant
+phenotypes and other characteristics of
+domesticated animal populations.
+
+## Population Genomics & Biodiversity
+
+Population genomic approaches are used to
+characterize genetic diversity, population
+structure and evolutionary processes in
+domesticated animal populations.
+
+Research activities include the analysis of
+genome-wide markers, whole-genome sequencing
+data, runs of homozygosity and signatures
+of selection.
+
+These approaches provide information on
+population history, adaptation, inbreeding
+and the genomic characteristics of local
+and commercial breeds, supporting the
+characterization of animal genetic resources.
+
+## Environmental DNA, Metagenomics & One Health
+
+This research area explores the information
+contained in environmental and unconventional
+DNA sources.
+
+Shotgun metagenomics and DNA metabarcoding
+approaches are applied to characterize
+biodiversity and environmental signatures,
+including those recovered from honey.
+
+Additional activities investigate viral
+sequences in animal genomic datasets and
+the use of DNA-based approaches for food
+authentication and molecular traceability.
+
+These applications connect animal genomics
+with environmental monitoring, biodiversity
+research and One Health questions.
+
+## Bioinformatics, Systems Biology & Genome Interpretation
+
+This research area covers the development
+and evaluation of computational methods
+for the analysis and interpretation of
+biological data.
+
+Previous work includes network-based
+functional enrichment, analysis of molecular
+interaction networks and computational
+approaches to genome interpretation.
+
+Research activities also include the
+assessment of methods for genetic variant
+prioritization and the application of
+statistical and machine learning approaches
+to complex biological problems.
+
+These methodological activities provide
+a computational background for research
+across different biological systems.
