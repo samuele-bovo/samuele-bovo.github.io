@@ -241,13 +241,13 @@ header#title-block-header {
 /* Compact publication lists */
 
 .publication-list {
-  font-size: 0.88rem;
-  line-height: 1.5;
+  font-size: 0.80rem;
+  line-height: 1.4;
   color: #53677a;
 }
 
 .publication-list p {
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.65rem;
 }
 
 .publication-list strong {
