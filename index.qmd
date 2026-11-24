@@ -40,41 +40,70 @@ and molecular traceability.
 :::
 
 
+
 ## Research areas
 
-::: {.grid}
+::: {.grid .research-grid}
 
 ::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+
+<span class="research-number">01</span>
+
 ### Animal Genomics & Phenomics
 
 Genetic architecture of complex traits,
 genome-wide association studies, pig
 metabolomics and molecular phenotypes.
+
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### Multi-Omics & Computational Biology
+::: {.research-card}
+
+<span class="research-number">02</span>
+
+### Multi-Omics & Systems Biology
 
 Integration of genomic, metabolomic and
-phenotypic data, systems biology and
-computational methods.
+phenotypic datasets, molecular networks
+and functional interpretation of
+biological processes.
+
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+
+<span class="research-number">03</span>
+
 ### Biodiversity & Population Genomics
 
 Genetic diversity, population structure,
-environmental genomics and biodiversity
-monitoring.
+environmental genomics and molecular
+approaches to biodiversity monitoring.
+
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+
+<span class="research-number">04</span>
+
 ### Bioinformatics & Machine Learning
 
-Computational workflows, statistical
-modelling and machine learning applied
-to biological datasets.
+Development and application of computational
+methods, statistical modelling and machine
+learning approaches to biological datasets.
+
 :::
+:::
+
+:::
+
 
 :::
 
