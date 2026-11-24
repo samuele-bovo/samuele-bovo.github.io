@@ -14,7 +14,7 @@ to specific biological questions.
 The following sections describe the main research
 areas and their scientific context.
 
-## Genomics & Molecular Phenotypes
+## Genomics & Molecular Phenotypes {#genomics-molecular-phenotypes}
 
 This research area investigates the genetic
 architecture of molecular and intermediate
@@ -32,7 +32,7 @@ of genetic factors affecting metabolic traits
 and to the interpretation of their relationships
 with biological pathways and complex phenotypes.
 
-## Metabolomics, Phenomics & Machine Learning
+## Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
 
 This research area focuses on the characterization
 of phenotypic variability through high-throughput
@@ -50,7 +50,7 @@ analyse complex phenotypic datasets and
 investigate relationships between molecular
 profiles and animal phenotypes.
 
-## Genomics of Complex & Production Traits
+## Genomics of Complex & Production Traits {#genomics-complex-production-traits}
 
 Genome-wide association studies and sequencing
 approaches are applied to investigate the genetic
@@ -66,7 +66,7 @@ genetic determinants of economically relevant
 phenotypes and other characteristics of
 domesticated animal populations.
 
-## Population Genomics & Biodiversity
+## Population Genomics & Biodiversity {#population-genomics-biodiversity}
 
 Population genomic approaches are used to
 characterize genetic diversity, population
@@ -84,7 +84,7 @@ and the genomic characteristics of local
 and commercial breeds, supporting the
 characterization of animal genetic resources.
 
-## Environmental DNA, Metagenomics & One Health
+## Environmental DNA, Metagenomics & One Health {#environmental-dna-metagenomics-one-health}
 
 This research area explores the information
 contained in environmental and unconventional
@@ -104,7 +104,7 @@ These applications connect animal genomics
 with environmental monitoring, biodiversity
 research and One Health questions.
 
-## Bioinformatics, Systems Biology & Genome Interpretation
+## Bioinformatics, Systems Biology & Genome Interpretation {#bioinformatics-systems-biology}
 
 This research area covers the development
 and evaluation of computational methods
