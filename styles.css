@@ -148,3 +148,9 @@ a:hover {
     padding: 1.3rem;
   }
 }
+
+/* Hide Quarto's automatically generated page title */
+
+header#title-block-header {
+  display: none !important;
+}
