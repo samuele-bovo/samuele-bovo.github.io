@@ -1,14 +1,12 @@
 
 /* Academic Minimal — Samuele Bovo */
 
-/* Colori principali */
 :root {
   --bs-primary: #17324d;
   --bs-link-color: #245b85;
   --bs-link-hover-color: #17324d;
 }
 
-/* Testo generale */
 body {
   font-family: "Segoe UI", Arial, sans-serif;
   color: #34495e;
@@ -16,7 +14,6 @@ body {
   background-color: #ffffff;
 }
 
-/* Titoli */
 h1, h2, h3, h4 {
   color: #17324d;
   font-weight: 600;
@@ -34,7 +31,8 @@ h2 {
   border-bottom: 1px solid #e3e9ef;
 }
 
-/* Barra di navigazione */
+/* Navigation */
+
 .navbar {
   background-color: #ffffff !important;
   border-bottom: 1px solid #e3e9ef;
@@ -45,18 +43,17 @@ h2 {
   color: #17324d !important;
 }
 
-/* Contenuto principale */
+/* Main content */
+
 #quarto-content {
   max-width: 1120px;
   margin: 0 auto;
 }
 
-/* Immagini */
-img {
-  border-radius: 8px;
+p {
+  margin-bottom: 1.2rem;
 }
 
-/* Collegamenti */
 a {
   text-decoration: none;
 }
@@ -65,11 +62,27 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Spaziatura */
-p {
+/* Hero */
+
+.hero-section {
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.hero-section h1 {
+  margin-top: 0;
   margin-bottom: 1.2rem;
 }
 
+.profile-photo {
+  width: 100%;
+  max-width: 280px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
 
 /* Research cards */
 
@@ -77,12 +90,18 @@ p {
   row-gap: 1.5rem;
 }
 
+.research-grid > div {
+  display: flex;
+}
+
 .research-card {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
   border: 1px solid #e1e7ed;
   border-radius: 10px;
   padding: 1.6rem;
-  background: #ffffff;
-  height: 100%;
+  background-color: #ffffff;
   transition: border-color 0.2s ease;
 }
 
@@ -103,6 +122,7 @@ p {
   font-size: 1.15rem;
   margin-top: 0;
   margin-bottom: 0.8rem;
+  padding: 0;
   border: none;
 }
 
@@ -116,8 +136,15 @@ p {
 /* Mobile */
 
 @media (max-width: 768px) {
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero-section {
+    margin-top: 1rem;
+  }
+
   .research-card {
     padding: 1.3rem;
   }
 }
-
