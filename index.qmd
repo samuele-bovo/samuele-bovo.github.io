@@ -1,6 +1,7 @@
 
 ---
 title: "Samuele Bovo"
+pagetitle: "Samuele Bovo | Livestock genomics and molecular phenomics"
 title-block-style: none
 description: "Samuele Bovo, Assistant Professor in Animal Genetics at the University of Bologna. Research in animal genomics, pig metabolomics, phenomics and computational biology."
 include-in-header:
