@@ -28,8 +28,7 @@ Depending on the research question, I develop computational methods, integrate o
 
 ::: {.g-col-12 .g-col-md-4}
 
-![Samuele Bovo](profile.jpg){.profile-photo}
-
+![](profile.jpg){.profile-photo fig-alt="Portrait of Samuele Bovo"}
 :::
 
 :::
