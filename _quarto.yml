@@ -1,0 +1,22 @@
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Samuele Bovo"
+  site-url: https://samuele-bovo.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - icon: github
+        href: https://github.com/samuele-bovo
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    link-external-newwindow: true
