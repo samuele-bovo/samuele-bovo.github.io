@@ -154,3 +154,17 @@ a:hover {
 header#title-block-header {
   display: none !important;
 }
+
+
+/* Scientific profiles */
+
+#scientific-profiles + p a {
+  color: #245b85;
+  font-weight: 500;
+}
+
+#scientific-profiles + p a:hover {
+  color: #17324d;
+  text-decoration: underline;
+}
+
