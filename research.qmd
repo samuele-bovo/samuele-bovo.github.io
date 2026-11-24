@@ -32,6 +32,26 @@ of genetic factors affecting metabolic traits
 and to the interpretation of their relationships
 with biological pathways and complex phenotypes.
 
+
+### Selected publications
+
+**Bovo S. et al. (2026)**  
+[Combining metabolomics and genomics to describe genetic factors affecting the metabolism in growing Duroc pigs](https://doi.org/10.1186/s12711-026-01113-1)  
+*Genetics Selection Evolution*, 58, 93.
+
+**Bovo S. et al. (2025)**  
+[Merging metabolomics and genomics provides a catalog of genetic factors that influence molecular phenotypes in pigs linking relevant metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8)  
+*Genetics Selection Evolution*, 57, 11.
+
+**Bovo S. et al. (2020)**  
+[Haplotype-based genome-wide association studies reveal new loci for haematological and clinical-biochemical parameters in Large White pigs](https://doi.org/10.1111/age.12959)  
+*Animal Genetics*, 51, 601–606.
+
+**Bovo S. et al. (2019)**  
+[Genome-wide association studies for 30 haematological and blood clinical-biochemical traits in Large White pigs reveal genomic regions affecting intermediate phenotypes](https://doi.org/10.1038/s41598-019-43297-1)  
+*Scientific Reports*, 9, 7003.
+
+
 ## Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
 
 This research area focuses on the characterization
