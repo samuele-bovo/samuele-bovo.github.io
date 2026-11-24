@@ -1,9 +1,11 @@
 
 ---
 title: "Samuele Bovo"
-title-block-banner: false
 title-block-style: none
-page-layout: full
+title-block-banner: false
+format:
+  html:
+    title-block: false
 description: "Samuele Bovo, Assistant Professor in Animal Genetics at the University of Bologna. Research in animal genomics, pig metabolomics, phenomics and computational biology."
 ---
 
