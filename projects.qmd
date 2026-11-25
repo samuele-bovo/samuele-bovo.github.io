@@ -18,7 +18,7 @@ listing:
   page-size: 30
 ---
 
-This page presents research projects in which
+This page presents selected research projects in which
 I am or have been involved, including
 competitive research grants, international
 collaborations and methodological activities.
