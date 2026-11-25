@@ -1,0 +1,61 @@
+
+---
+title: "TREASURE"
+subtitle: "Horizon 2020 | 2015–2019"
+description: "European research project investigating genetic diversity, local pig breeds, adaptation and sustainable pork production systems."
+categories:
+  - Pig Genomics
+  - Population Genomics
+  - Genetic Diversity
+  - Animal Genetic Resources
+toc: false
+---
+
+**Diversity of local pig breeds and production
+systems for high quality traditional products
+and sustainable pork chains**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | Horizon 2020 |
+| Period | April 2015 – March 2019 |
+| Grant agreement | 634476 |
+| University of Bologna scientific lead | Luca Fontanesi |
+| Status | Completed |
+
+## Project overview
+
+TREASURE investigated the genetic diversity
+and characteristics of European local pig
+breeds and their production systems.
+
+The project combined genomic characterization
+with studies on adaptation, production traits
+and the sustainability of traditional
+pork production chains.
+
+## My research contribution
+
+My research involvement is related to
+the genomic characterization of pig
+populations and the analysis of genetic
+diversity and population structure.
+
+
+## Research keywords
+
+Local pig breeds · Population genomics ·
+Genetic diversity · Signatures of selection ·
+Animal genetic resources
+
+## Related research areas
+
+[Population Genomics & Biodiversity](../../research.qmd#population-genomics-biodiversity)
+
+[Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
+
+## Project links
+
+[Official CORDIS record](https://cordis.europa.eu/project/id/634476)
