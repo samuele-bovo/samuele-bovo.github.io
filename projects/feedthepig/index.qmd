@@ -10,6 +10,7 @@ categories:
   - Feed Efficiency
   - Molecular Biomarkers
 toc: false
+image: ../../images/feedthepig-logo.jpeg
 ---
 
 **An integrated metabolomic, transcriptomic and
