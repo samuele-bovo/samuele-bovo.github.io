@@ -11,7 +11,7 @@ categories:
   - Metabolomics
   - Pig Genomics
 toc: false
-image: ../../images/abphenomics-logo.tiff
+image: ../../images/abphenomics-logo.jpg
 ---
 
 **Transforming animal breeding through phenomic
