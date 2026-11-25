@@ -71,9 +71,6 @@ Environmental genomics
 
 [Environmental DNA, Metagenomics & One Health](../../research.qmd#environmental-dna-metagenomics-one-health)
 
-[Bioinformatics, Systems Biology & Genome Interpretation](../../research.qmd#bioinformatics-systems-biology)
-
-
 ## Selected related publications
 
 ::: {.publication-list}
