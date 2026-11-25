@@ -10,6 +10,7 @@ categories:
   - One Health
   - Bioinformatics
 toc: false
+image: ../../images/viranimalone-logo.jpeg
 ---
 
 **Application of animal genomics and data mining
