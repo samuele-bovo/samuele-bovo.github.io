@@ -80,6 +80,31 @@ Multi-omics integration · Genetic improvement
 
 [Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
 
+
+## Selected related publications
+
+::: {.publication-list}
+
+**Bovo S. et al. (2026)**  
+[A genome-wide association study based on plasma high-throughput untargeted metabolomic profiles expands the number of genetically influenced metabolites in pigs](https://doi.org/10.1038/s41598-026-68614-3)  
+*Scientific Reports*.
+
+**Bertolini F., Bovo S., Bolner M. et al. (2026)**  
+[Identification of biomarkers for feed efficiency and growth rate by exploring the plasma metabolome of divergent heavy pigs](https://doi.org/10.1016/j.animal.2025.101725)  
+*Animal*, 20(1), 101725.  
+*Equal contribution: Bertolini F., Bovo S. and Bolner M.*
+
+**Bovo S. et al. (2025)**  
+[Comparative analysis of targeted metabolomic profiles reveals plasma metabolite differences across three Italian heavy pig breeds](https://doi.org/10.1038/s41598-025-23058-z)  
+*Scientific Reports*, 15, 39296.
+
+**Bovo S. et al. (2025)**  
+[Merging metabolomics and genomics provides a catalog of genetic factors that influence molecular phenotypes in pigs linking relevant metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8)  
+*Genetics Selection Evolution*, 57, 11.
+
+:::
+
+
 ## Project links
 
 [Official FEEDTHEPIG website](https://site.unibo.it/feedthepig/en)
