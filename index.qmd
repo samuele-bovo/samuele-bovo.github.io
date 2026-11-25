@@ -95,6 +95,33 @@ Developing and applying computational approaches for biological network analysis
 
 :::
 
+
+## Selected Publications
+
+Three representative publications from different
+areas of my research.
+
+::: {.publication-list}
+
+**Bovo S. et al. (2025)**  
+[Merging metabolomics and genomics provides a catalog of genetic factors that influence molecular phenotypes in pigs linking relevant metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8)  
+*Genetics Selection Evolution*, 57, 11.
+
+**Bovo S. et al. (2020)**  
+[Whole-genome sequencing of European autochthonous and commercial pig breeds allows the detection of signatures of selection for adaptation of genetic resources to different breeding and production systems](https://doi.org/10.1186/s12711-020-00553-7)  
+*Genetics Selection Evolution*, 52, 33.
+
+**Bovo S. et al. (2018)**  
+[Shotgun metagenomics of honey DNA: Evaluation of a methodological approach to describe a multi-kingdom honey bee derived environmental DNA signature](https://doi.org/10.1371/journal.pone.0205575)  
+*PLOS ONE*, 13(10), e0205575.
+
+:::
+
+For further publications and scientific activities,
+explore my [Research](research.qmd) and
+[Research Projects](projects.qmd) pages.
+
+
 ## Scientific profiles
 
 [University of Bologna](https://www.unibo.it/sitoweb/samuele.bovo/en) ·
