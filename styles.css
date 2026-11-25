@@ -304,3 +304,16 @@ header#title-block-header {
 .quarto-grid-item .card-body {
   padding: 1.4rem;
 }
+
+
+/* Project logos in Quarto Listings */
+
+.quarto-grid-item .card-img-top {
+  height: 115px;
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+  background-color: #ffffff;
+  padding: 15px 25px;
+  border-bottom: 1px solid #e1e7ed;
+}
