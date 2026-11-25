@@ -17,7 +17,9 @@ include-in-header:
 **Livestock genomics · Molecular phenomics · Bioinformatics**
 
 Assistant Professor in Livestock Systems, Animal Breeding and Genetics 
+
 Member of the [Animal and Food Genomics group](https://site.unibo.it/animal-and-food-genomics/en) · PI: Prof. [Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en)
+
 University of Bologna, Italy
 
 **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow — [ABPhenomics](https://cordis.europa.eu/project/id/101282544)**
