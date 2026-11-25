@@ -50,8 +50,6 @@ conferences I have attended.
 
 **Related research:** 
 [Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
-[Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
-
 :::
 
 :::
@@ -90,11 +88,9 @@ key regulators of metabolism in growing Duroc male pigs.*
 
 **Related research:** 
 [Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
-[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 
 **Related projects:** 
 [Re-Livestock](projects/re-livestock/index.qmd) ·
-[FEEDTHEPIG](projects/feedthepig/index.qmd)
 
 :::
 
@@ -133,10 +129,9 @@ metabolomics to dissect the animal phenome.*
 
 **Related research:** 
 [Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
-[Bioinformatics, Systems Biology & Genome Interpretation](research.qmd#bioinformatics-systems-biology)
 
 **Related project:** 
-[ABPhenomics](projects/abphenomics/index.qmd)
+[PigPhenomics](projects/pigphenomics/index.qmd)
 
 :::
 
@@ -174,8 +169,6 @@ Presentations and Engagement.*
 
 **Related research:** 
 [Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
-[Bioinformatics, Systems Biology & Genome Interpretation](research.qmd#bioinformatics-systems-biology)
-
 :::
 
 :::
@@ -217,6 +210,8 @@ metabolite ratios.*
 
 **Related project:** 
 [PigPhenomics](projects/pigphenomics/index.qmd)
+[Re-Livestock](projects/re-livestock/index.qmd) ·
+
 
 :::
 
@@ -377,6 +372,8 @@ of the pig metabolome.*
 
 **Related project:** 
 [PigPhenomics](projects/pigphenomics/index.qmd)
+[Re-Livestock](projects/re-livestock/index.qmd) ·
+
 
 :::
 
