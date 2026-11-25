@@ -520,3 +520,18 @@ body:has(.hero-section) .publication-list p {
     font-size: 2rem;
   }
 }
+
+/* Homepage profile photo — compact layout */
+
+.home-hero {
+  align-items: center;
+}
+
+.home-hero .profile-photo {
+  display: block;
+  width: 100%;
+  max-width: 215px;
+  height: auto;
+  margin: 0 0 0 auto;
+  border-radius: 10px;
+}
