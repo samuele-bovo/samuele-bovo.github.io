@@ -130,3 +130,43 @@ explore my [Research](research.qmd) and
 [ORCID](https://orcid.org/0000-0002-5712-8211) ·
 [ResearchGate](https://www.researchgate.net/profile/Samuele-Bovo) ·
 [GitHub](https://github.com/samuele-bovo)
+
+
+
+## Contact
+
+::: {.grid .contact-grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.contact-card}
+
+### Email
+
+[samuele.bovo@unibo.it](mailto:samuele.bovo@unibo.it)
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.contact-card}
+
+### Affiliation
+
+Department of Agricultural and Food Sciences (DISTAL)
+
+University of Bologna, Italy
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.contact-card}
+
+### LinkedIn
+
+[Professional profile](https://www.linkedin.com/in/samuelebovo/)
+
+:::
+:::
+
+:::
