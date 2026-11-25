@@ -648,3 +648,54 @@ body:has(.hero-section) .publication-list p {
   align-items: center;
   gap: 0.25rem;
 }
+
+
+/* Fix Research Area cards layout */
+
+.research-card,
+.research-area {
+  display: block !important;
+}
+
+/* Title and icon on the same line */
+.research-card h3,
+.research-area h3 {
+  display: block !important;
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+  line-height: 1.4;
+}
+
+/* Clickable title */
+.research-card h3 a,
+.research-area h3 a {
+  display: inline;
+  color: #17324d;
+  text-decoration: none;
+}
+
+.research-card h3 a:hover,
+.research-area h3 a:hover {
+  color: #245b85;
+  text-decoration: underline;
+}
+
+/* Icon next to title */
+.research-card h3 .bi,
+.research-area h3 .bi {
+  display: inline-block;
+  color: #4f8a83;
+  font-size: 1.25rem;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+/* Description below title */
+.research-card p,
+.research-area p {
+  display: block;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.6;
+}
