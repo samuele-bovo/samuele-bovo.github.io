@@ -725,3 +725,142 @@ body:has(.hero-section) .publication-list p {
 .sidebar nav .cv-icon {
   display: none;
 }
+
+
+
+
+
+/* =====================================
+   EVENTS — Academic Minimal
+   ===================================== */
+
+.events-icon {
+  color: #4f8a83;
+  font-size: 1.3rem;
+  margin-right: 0.55rem;
+  vertical-align: 0.02em;
+}
+
+/* Event cards */
+
+.event-card {
+  background: #ffffff;
+  border: 1px solid #e1e7ed;
+  border-radius: 9px;
+  padding: 1.4rem 1.6rem;
+  margin: 1.2rem 0;
+}
+
+.event-card:hover {
+  border-color: #b7cbd0;
+}
+
+/* Upcoming event */
+
+.event-upcoming {
+  border-left: 4px solid #397ca4;
+  background: #f7fafc;
+}
+
+/* Event header */
+
+.event-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.event-heading-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.event-heading h3,
+.event-heading h4 {
+  color: #17324d;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+}
+
+.event-heading-text p {
+  color: #53677a;
+  font-size: 0.88rem;
+  margin: 0;
+}
+
+/* Year label */
+
+.event-year {
+  background: #edf3f6;
+  color: #17324d;
+  border-radius: 6px;
+  padding: 0.35rem 0.7rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+  flex-shrink: 0;
+}
+
+/* Event description */
+
+.event-card > p {
+  color: #53677a;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 0.7rem;
+}
+
+.event-card > p .bi {
+  color: #4f8a83;
+  margin-right: 0.35rem;
+}
+
+/* Related research and projects */
+
+.event-related {
+  border-top: 1px solid #e3e9ef;
+  margin-top: 1rem;
+  padding-top: 0.85rem;
+}
+
+.event-related p {
+  color: #718096;
+  font-size: 0.8rem;
+  line-height: 1.65;
+  margin-bottom: 0.35rem;
+}
+
+.event-related strong {
+  color: #53677a;
+}
+
+.event-related a {
+  color: #245b85;
+  text-decoration: none;
+}
+
+.event-related a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .event-card {
+    padding: 1rem;
+  }
+
+  .event-heading h3,
+  .event-heading h4 {
+    font-size: 1.05rem;
+  }
+
+  .event-year {
+    font-size: 0.9rem;
+    padding: 0.3rem 0.5rem;
+  }
+}
+
