@@ -70,6 +70,30 @@ Sustainable livestock systems
 
 [Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
 
+
+## Selected related publications
+
+::: {.publication-list}
+
+**Bovo S. et al. (2026)**  
+[Combining metabolomics and genomics to describe genetic factors affecting the metabolism in growing Duroc pigs](https://doi.org/10.1186/s12711-026-01113-1)  
+*Genetics Selection Evolution*, 58, 93.
+
+**Bovo S. et al. (2026)**  
+[A genome-wide association study based on plasma high-throughput untargeted metabolomic profiles expands the number of genetically influenced metabolites in pigs](https://doi.org/10.1038/s41598-026-68614-3)  
+*Scientific Reports*.
+
+**Bertolini F., Bovo S., Bolner M. et al. (2026)**  
+[Identification of biomarkers for feed efficiency and growth rate by exploring the plasma metabolome of divergent heavy pigs](https://doi.org/10.1016/j.animal.2025.101725)  
+*Animal*, 20(1), 101725.
+
+**Bovo S. et al. (2025)**  
+[High-throughput untargeted metabolomics reveals metabolites and metabolic pathways that differentiate two divergent pig breeds](https://doi.org/10.1016/j.animal.2024.101393)  
+*Animal*, 19(1), 101393.
+
+:::
+
+
 ## Project links
 
 [Official CORDIS record](https://cordis.europa.eu/project/id/101059609)
