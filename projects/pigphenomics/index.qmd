@@ -30,6 +30,17 @@ in breeding plans**
 | My role | Researcher – Genomics and Metabolomics |
 | Status | Completed |
 
+
+## Research team and collaboration
+
+These research activities were carried out within
+the [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+at the University of Bologna, led by
+[Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en).
+
+My contributions are presented within this
+collaborative research context.
+
 ## Project overview
 
 PigPhenomics investigated the application
