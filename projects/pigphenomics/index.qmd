@@ -1,0 +1,91 @@
+
+---
+title: "PigPhenomics"
+subtitle: "PRIN 2017 | 2019–2022"
+pagetitle: "PigPhenomics | Samuele Bovo"
+description: "PigPhenomics investigated pig genomics, high-throughput phenotyping and molecular phenotypes, including metabolomics and metabolite GWAS for animal breeding."
+categories:
+  - Pig Genomics
+  - Molecular Phenomics
+  - Metabolomics
+  - Genome-Wide Association Studies
+  - Complex Traits
+toc: false
+---
+
+**Applied phenomics and genomics in pigs for
+the identification and use of new phenotypes
+in breeding plans**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | PRIN 2017 – MIUR |
+| Period | August 2019 – August 2022 |
+| Funding reported by UNIBO | €277,000 |
+| Scientific coordinator at UNIBO | Luca Fontanesi |
+| Participating institutions | Universities of Bologna, Milano and Padova |
+| My role | Researcher – Genomics and Metabolomics |
+| Status | Completed |
+
+## Project overview
+
+PigPhenomics investigated the application
+of genomic and high-throughput phenotyping
+approaches to identify and characterize
+novel phenotypes in pigs.
+
+The project combined genomic information
+with molecular and phenotypic measurements
+to investigate complex traits and explore
+their potential applications in animal breeding.
+
+## My research contribution
+
+My research activities focused on the
+analysis and interpretation of genomic
+and metabolomic data, with particular
+emphasis on molecular phenotypes and
+their genetic architecture.
+
+These activities included:
+
+- Analysis of high-throughput metabolomic
+  profiles in pigs.
+- Genome-wide association analyses
+  of molecular and intermediate phenotypes.
+- Investigation of genetic factors
+  associated with metabolite variability.
+- Functional interpretation of genomic
+  associations and metabolic pathways.
+
+My contributions also included the
+presentation of research results on
+molecular phenotyping and the genetic
+characterization of the pig metabolome.
+
+## Research keywords
+
+Pig genomics · Molecular phenomics ·
+Metabolomics · Metabolite GWAS ·
+Genetic architecture · Complex traits
+
+## Related research areas
+
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
+
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
+
+## Selected related publications
+
+**Bovo S. et al. (2025)**  
+[Merging metabolomics and genomics provides a
+catalog of genetic factors that influence
+molecular phenotypes in pigs linking relevant
+metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8)  
+*Genetics Selection Evolution*.
+
+## Project links
+
+[Official PigPhenomics website](https://site.unibo.it/pigphenomics/en)
