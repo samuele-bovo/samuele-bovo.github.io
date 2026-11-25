@@ -36,7 +36,7 @@ phenotyping**
 
 ## Research team and collaboration
 
-These research activities were carried out within
+These research activities are carried out within
 the [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
 at the University of Bologna, led by
 [Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en), and the 
