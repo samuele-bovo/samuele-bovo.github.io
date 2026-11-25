@@ -1,0 +1,84 @@
+
+---
+title: "ABPhenomics"
+subtitle: "MSCA Postdoctoral Global Fellowship | 2027–2030"
+pagetitle: "ABPhenomics | Samuele Bovo"
+description: "ABPhenomics is an MSCA Postdoctoral Global Fellowship investigating AI-based digital phenotyping, pig behaviour, metabolomics and genomic selection for animal welfare."
+categories:
+  - Animal Phenomics
+  - Digital Phenotyping
+  - Machine Learning
+  - Metabolomics
+  - Pig Genomics
+toc: false
+---
+
+**Transforming animal breeding through phenomic
+approaches that integrate digital and molecular
+phenotyping**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | Horizon Europe – Marie Skłodowska-Curie Actions |
+| Fellowship | MSCA Postdoctoral Global Fellowship |
+| Period | April 2027 – March 2030 |
+| Grant agreement | 101282544 |
+| EU contribution | €396,991.08 |
+| Beneficiary institution | University of Bologna |
+| Outgoing host | Iowa State University, USA |
+| Secondment | PIC, USA |
+| My role | MSCA Postdoctoral Fellow |
+| Status | Funded – Starting April 2027 |
+
+## Project overview
+
+ABPhenomics aims to integrate digital and
+molecular phenotyping approaches to investigate
+pig behaviour and support welfare-oriented
+genomic selection.
+
+The project combines AI-based analysis of video
+and sensor data with metabolomic profiling to
+characterize behavioural and molecular phenotypes.
+
+The integration of these data sources is intended
+to investigate relationships between behaviour,
+metabolic variation and genomic information.
+
+## My research contribution
+
+As the MSCA Postdoctoral Fellow, my planned
+research activities include:
+
+- Development and application of AI-based
+  computational pipelines for behavioural
+  phenotyping using video and sensor data.
+- Identification and characterization of
+  metabolomic profiles associated with
+  behavioural phenotypes in pigs.
+- Integration of digital and molecular
+  phenotypes with genomic information.
+- Investigation of potential applications
+  to genomic selection for animal welfare.
+
+These activities represent the planned
+scientific work of the fellowship.
+
+## Research keywords
+
+Animal phenomics · Digital phenotyping ·
+Computer vision · Pig behaviour ·
+Metabolomics · Genomic selection ·
+Machine learning
+
+## Related research areas
+
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
+
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
+
+## Project links
+
+[Official project record — CORDIS](https://cordis.europa.eu/project/id/101282544)
