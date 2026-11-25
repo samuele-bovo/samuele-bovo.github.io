@@ -39,7 +39,9 @@ phenotyping**
 These research activities were carried out within
 the [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
 at the University of Bologna, led by
-[Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en).
+[Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en), and the 
+Iowa State University, [Juan Steibel](https://www.ans.iastate.edu/people/juan-steibel)'s group.
+
 
 My contributions are presented within this
 collaborative research context.
