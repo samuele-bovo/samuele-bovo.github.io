@@ -404,3 +404,54 @@ body:has(.hero-section) .publication-list p {
 .contact-card a:hover {
   text-decoration: underline;
 }
+
+
+/* Academic CV */
+
+.cv-highlights {
+  background: #f7f9fb;
+  border-left: 3px solid #397ca4;
+  padding: 1.3rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+  border-radius: 4px;
+}
+
+.cv-highlights p {
+  margin-bottom: 0.65rem;
+}
+
+.cv-highlights hr {
+  border: 0;
+  border-top: 1px solid #dce5ed;
+  margin: 1.2rem 0;
+}
+
+.cv-timeline {
+  border-left: 2px solid #dce5ed;
+  padding-left: 1.4rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.cv-timeline hr {
+  border: 0;
+  border-top: 1px solid #e3e9ef;
+  margin: 1.3rem 0;
+}
+
+.cv-timeline p {
+  margin-bottom: 0.65rem;
+}
+
+.cv-timeline strong {
+  color: #17324d;
+}
+
+@media (max-width: 768px) {
+  .cv-highlights {
+    padding: 1rem;
+  }
+
+  .cv-timeline {
+    padding-left: 1rem;
+  }
+}
