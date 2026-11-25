@@ -179,6 +179,53 @@ Presentations and Engagement.*
 
 ### 2025
 
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### ASPA 2025
+
+**26th Congress of the Animal Science and Production Association**
+
+:::
+
+::: {.event-year}
+2025
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Turin, Italy  
+<i class="bi bi-calendar3"></i> 17–20 June 2025
+
+**Role:** Oral presentation
+
+*The size of the rabbit from whole genome
+sequencing: the dwarfism in Dwarf Lop breed
+is better explained as a polygenic trait.*
+
+*Multi-omics dissection of lipid metabolism 
+in Italian heavy pig breeds*
+
+[Official conference website](https://www.aspa2025.it/)
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics of Complex & Production Traits](research.qmd#genomics-complex-production-traits) ·
+[Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
+
+:::
+
+:::
+
+
+
+
+
 ::: {.event-card}
 
 ::: {.event-heading}
@@ -346,6 +393,49 @@ and lines.*
 
 ### 2023 and Earlier
 
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### ASPA 2023
+
+**25th Congress of the Animal Science and Production Association**
+
+:::
+
+::: {.event-year}
+2023
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Monopoli, Bari, Italy  
+<i class="bi bi-calendar3"></i> 13–16 June 2023
+
+**Role:** Oral presentation
+
+*Whole metabolome and genome analyses provide
+information on the genetic variability affecting
+the metabolism in pigs.*
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+
+**Related project:** 
+[PigPhenomics](projects/pigphenomics/index.qmd)
+
+:::
+
+:::
+
+
+
+
 ::: {.event-card}
 
 ::: {.event-heading}
@@ -430,6 +520,48 @@ the porcine metabolism.*
 :::
 
 :::
+
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### ASPA 2021
+
+**24th Congress of the Animal Science and Production Association**
+
+:::
+
+::: {.event-year}
+2021
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Padova, Italy  
+<i class="bi bi-calendar3"></i> 21–24 September 2021
+
+**Role:** Oral presentation
+
+*Mining livestock genomes for a One Health
+perspective in the management of animal
+genetic resources.*
+
+::: {.event-related}
+
+**Related research:** 
+[Environmental DNA, Metagenomics & One Health](research.qmd#environmental-dna-metagenomics-one-health) ·
+[Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
+
+**Related project:** 
+[VirAnimalOne](projects/viranimalone/index.qmd)
+
+:::
+
+:::
+
 
 ## <i class="bi bi-info-circle events-icon" aria-hidden="true"></i> Further Information
 
