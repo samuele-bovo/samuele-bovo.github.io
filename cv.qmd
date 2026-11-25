@@ -19,7 +19,7 @@ livestock. I am also extending these approaches
 towards AI-assisted phenotyping and the integration
 of digital and molecular phenomic data.
 
-## Selected Academic Highlights
+## <i class="bi bi-award cv-icon" aria-hidden="true"></i> Selected Academic Highlights
 
 ::: {.cv-highlights}
 
@@ -65,7 +65,7 @@ methods in animal science.
 
 :::
 
-## Academic Career
+## <i class="bi bi-briefcase cv-icon" aria-hidden="true"></i> Academic Career
 
 ::: {.cv-timeline}
 
@@ -108,7 +108,7 @@ and functional analysis of molecular data.
 
 :::
 
-## Education and Academic Qualifications
+## <i class="bi bi-mortarboard cv-icon" aria-hidden="true"></i> Education and Academic Qualifications
 
 **National Scientific Habilitation (ASN)**
 
@@ -136,7 +136,7 @@ characterization of an animal model.*
 
 University of Bologna.
 
-## Teaching and Student Supervision
+## <i class="bi bi-book cv-icon" aria-hidden="true"></i> Teaching and Student Supervision
 
 ### Applied Genomics
 
@@ -165,7 +165,7 @@ Previously, I served as a didactic tutor
 for the Laboratory of Bioinformatics 1
 at the University of Bologna (2014–2017).
 
-## International Research Experience
+## <i class="bi bi-globe-europe-africa cv-icon" aria-hidden="true"></i> International Research Experience
 
 ::: {.cv-timeline}
 
@@ -210,7 +210,7 @@ functional interpretation of metabolomic data.
 
 :::
 
-## Fellowships, Awards and Recognition
+## <i class="bi bi-trophy cv-icon" aria-hidden="true"></i> Fellowships, Awards and Recognition
 
 - **2026 — MSCA Postdoctoral Global Fellowship**, ABPhenomics, Horizon Europe.
 - **2024 — COST STSM Grant**, EU-LI-PHE, ETH Zürich.
@@ -218,7 +218,7 @@ functional interpretation of metabolomic data.
 - **2018 — COST STSM Grant**, Earlham Institute, United Kingdom.
 - **2016 — UNIBO Launch Pad**, selected entrepreneurial team and acceleration programme.
 
-## Scientific Networks and Community Activities
+## <i class="bi bi-people cv-icon" aria-hidden="true"></i> Scientific Networks and Community Activities
 
 ### COST EU-LI-PHE
 
@@ -283,7 +283,7 @@ for scientific events, including:
 - PigPhenomics Final Workshop (2023).
 - Bologna Winter Schools in Bioinformatics.
 
-## Books and Book Chapters
+## <i class="bi bi-journal-text cv-icon" aria-hidden="true"></i> Books and Book Chapters
 
 ::: {.publication-list}
 
@@ -301,7 +301,7 @@ In *The Genetics and Genomics of the Rabbit*. CABI, pp. 38–42.
 
 :::
 
-## Entrepreneurship and Knowledge Transfer
+## <i class="bi bi-lightbulb cv-icon" aria-hidden="true"></i> Entrepreneurship and Knowledge Transfer
 
 **2020–2023 | Co-Founder and Data Scientist — GRIFFA SRL**
 
@@ -317,7 +317,7 @@ This experience provided an opportunity
 to apply genomic and bioinformatic
 methodologies beyond academic research.
 
-## Further Information
+## <i class="bi bi-info-circle cv-icon" aria-hidden="true"></i> Further Information
 
 For detailed information on my scientific
 activities, publications and funded projects,
