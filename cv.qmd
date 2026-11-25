@@ -79,8 +79,7 @@ Department of Agricultural and Food Sciences
 Academic discipline: Livestock Systems,
 Animal Breeding and Genetics (AGRI-09/A).
 
-Member of the
-[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+Member of the [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
 
 
 Research and teaching activities in animal
@@ -91,35 +90,34 @@ data analysis and computational biology.
 
 **2018–2020 | Research Fellow**
 
-Animal Genomics Laboratory, University of Bologna.
+Department of Agricultural and Food Sciences (DISTAL), University of Bologna, Italy.
+
+Member of the [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+
 
 Research activities in animal genomics,
 metabolomics, population genetics and
-honey-derived environmental DNA, within
-the research group led by Prof. Luca Fontanesi.
+honey-derived environmental DNA.
 
 ---
 
 **2014–2017 | PhD Researcher**
 
-Bologna Biocomputing Group,
-University of Bologna.
+[Bologna Biocomputing Group](https://www.biocomp.unibo.it/), University of Bologna.
 
 Development of computational methods for
 the interpretation of biological complexity,
 with emphasis on protein interaction networks
-and functional analysis of molecular data.
+and functional analysis of molecular data. [pdf](https://amsdottorato.unibo.it/id/eprint/8366/)
 
 :::
 
 ## <i class="bi bi-mortarboard cv-icon" aria-hidden="true"></i> Education and Academic Qualifications
 
-**National Scientific Habilitation (ASN)**
+**2022-2032 | National Scientific Habilitation (ASN)**
 
-Italian National Scientific Habilitation
-for the position of Associate Professor,
-scientific field 07/AGRI-09 — Animal Science
-and Technology.
+National Scientific qualification as Associate Professor in the Italian higher education system,
+scientific field 07/AGRI-09 — Animal Science and Technology.
 
 **2018 | PhD in Biotechnological and Pharmaceutical Sciences**
 
@@ -178,7 +176,7 @@ at the University of Bologna (2014–2017).
 **Short-Term Scientific Mission — COST CA22112
 (EU-LI-PHE)**
 
-Animal Nutrition Group.
+Animal Nutrition Group | PI [Mutian Niu](https://an.ias.ethz.ch/people/Head/niu--mutian-prof--dr-.html)
 
 Research topic: *Exploring the use of exhalomics
 as a novel tool for pig phenotyping.*
@@ -188,7 +186,6 @@ exhaled metabolomic information as an
 additional source of molecular phenotypes
 in livestock research.
 
-[COST EU-LI-PHE](https://www.cost.eu/actions/CA22112/)
 
 ---
 
@@ -206,7 +203,9 @@ mining of genomic data.*
 
 **Visiting PhD Researcher**
 
-Computational Systems Biology Group.
+[Computational Systems Biology Group](https://www.cnb.csic.es/investigacion/departamentos/biologia-sistemas/computational-systems-biology/) | PI: Florencio Pazos Cabaleiro
+
+
 
 Research activities focused on the development
 of computational approaches for the
@@ -229,11 +228,9 @@ functional interpretation of metabolomic data.
 Active participation in the European Network
 on Livestock Phenomics (CA22112), with
 involvement in WG2 and WG3.
-
 Scientific activities include international
 collaboration, short-term scientific mobility,
 conference participation and meeting organisation.
-
 I also served as Co-Chair of the Young Researchers
 and Innovators session at the EU-LI-PHE
 3rd Annual Meeting (Istanbul, 2026).
@@ -243,7 +240,6 @@ and Innovators session at the EU-LI-PHE
 I regularly contribute to international scientific
 conferences and meetings, including WCGALP,
 EAAP, ISAG, AI4AS and COST EU-LI-PHE activities.
-
 My contributions include oral presentations
 on animal genomics, molecular phenomics,
 metabolomics and computational biology,
