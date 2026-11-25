@@ -48,7 +48,7 @@ and application of phenotyping approaches and
 computational methodologies in livestock research.
 
 [EU-LI-PHE website](https://eu-li-phe.eu/) |
-[COST Action CA22112](https://www.cost.eu/actions/CA22112/)
+[EU-LI-PHE CA22112](https://www.cost.eu/actions/CA22112/)
 
 ---
 
@@ -62,6 +62,8 @@ Ghent, Belgium, 29–30 June 2026.
 The conference addressed applications of
 artificial intelligence and computational
 methods in animal science.
+
+[AI4AS website](https://ai4as.eaap.org/)
 
 :::
 
@@ -77,11 +79,13 @@ Department of Agricultural and Food Sciences
 Academic discipline: Livestock Systems,
 Animal Breeding and Genetics (AGRI-09/A).
 
+Member of the
+[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+
+
 Research and teaching activities in animal
 genomics, molecular phenotyping, multi-omics
 data analysis and computational biology.
-
-[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
 
 ---
 
