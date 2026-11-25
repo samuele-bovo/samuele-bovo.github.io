@@ -11,6 +11,7 @@ categories:
   - Genome-Wide Association Studies
   - Complex Traits
 toc: false
+image: ../../images/abphenomics-logo.jpeg
 ---
 
 **Applied phenomics and genomics in pigs for
