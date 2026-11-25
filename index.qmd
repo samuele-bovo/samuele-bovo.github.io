@@ -8,7 +8,8 @@ include-in-header:
   - file: person.html
 ---
 
-::: {.grid .hero-section}
+
+::: {.grid .home-hero}
 
 ::: {.g-col-12 .g-col-md-8}
 
@@ -16,25 +17,66 @@ include-in-header:
 
 **Livestock genomics · Molecular phenomics · Bioinformatics**
 
-Assistant Professor in Livestock Systems, Animal Breeding and Genetics 
+Assistant Professor in Livestock Systems,
+Animal Breeding and Genetics
 
-Member of the [Animal and Food Genomics group](https://site.unibo.it/animal-and-food-genomics/en) · PI: Prof. [Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en)
+Member of the
+[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+· PI: [Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en)
 
 University of Bologna, Italy
-
-**Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow — [ABPhenomics](https://cordis.europa.eu/project/id/101282544)**
-
-My background is in bioinformatics and systems biology, including computational methods for molecular interaction networks and omics data integration.
-
-My research spans animal genetics and genomics, from the genetic architecture of complex traits and pig metabolomics and phenomics to population genomics, biodiversity and molecular traceability.
-
-Depending on the research question, I develop computational methods, integrate omics datasets, or apply statistical and machine learning approaches to biological data.
 
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 
-![](profile.jpg){.profile-photo fig-alt="Portrait of Samuele Bovo"}
+![](images/profile.jpg){.profile-photo}
+
+:::
+
+:::
+
+::: {.msca-highlight}
+
+**Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow**
+
+[ABPhenomics](projects/abphenomics/index.qmd) —
+AI-driven digital and molecular phenotyping
+for animal welfare.
+
+:::
+
+::: {.grid .home-intro-cards}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.home-intro-card}
+
+### Scientific Background
+
+My background is in biotechnology,
+bioinformatics and systems biology,
+including the development of computational
+methods for biological networks and
+multi-omics data integration.
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.home-intro-card}
+
+### Research Approach
+
+My research integrates genomic, metabolomic
+and phenotypic data to investigate the
+genetic architecture of complex traits.
+
+Depending on the research question,
+I develop computational methods or apply
+statistical and machine learning approaches
+to biological datasets.
+
+:::
 :::
 
 :::
