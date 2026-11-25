@@ -710,3 +710,18 @@ body:has(.hero-section) .publication-list p {
   vertical-align: 0.02em;
 }
 
+
+/* Academic CV — heading icons */
+
+#quarto-content h2 .cv-icon {
+  color: #4f8a83;
+  font-size: 1.3rem;
+  margin-right: 0.6rem;
+  vertical-align: 0.02em;
+}
+
+/* Hide decorative icons from the sidebar TOC */
+#TOC .cv-icon,
+.sidebar nav .cv-icon {
+  display: none;
+}
