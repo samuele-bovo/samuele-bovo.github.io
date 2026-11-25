@@ -601,3 +601,50 @@ body:has(.hero-section) .publication-list p {
   align-items: center;
   gap: 0.25rem;
 }
+
+
+/* Linked research area titles */
+
+.research-card h3 a,
+.research-area h3 a {
+  color: #17324d;
+  text-decoration: none;
+}
+
+.research-card h3 a:hover,
+.research-area h3 a:hover {
+  color: #245b85;
+}
+
+.research-card h3 a .bi,
+.research-area h3 a .bi {
+  color: #4f8a83;
+  margin-right: 0.5rem;
+}
+
+
+
+/* Research Areas and Contact icons */
+
+.research-card h3 .bi,
+.research-area h3 .bi {
+  color: #4f8a83;
+  font-size: 1.25rem;
+  margin-right: 0.55rem;
+  vertical-align: -0.08em;
+}
+
+.contact-card h3 .bi {
+  color: #397ca4;
+  font-size: 1.2rem;
+  margin-right: 0.5rem;
+  vertical-align: -0.08em;
+}
+
+.research-card h3,
+.research-area h3,
+.contact-card h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
