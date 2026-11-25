@@ -1,0 +1,64 @@
+
+---
+title: "Re-Livestock"
+subtitle: "Horizon Europe | 2022–2027"
+description: "European research project on climate resilience, animal breeding, livestock welfare and sustainable production systems."
+categories:
+  - Livestock Resilience
+  - Animal Genetics
+  - Climate Adaptation
+  - Animal Welfare
+toc: false
+---
+
+**Facilitating Innovations for Resilient Livestock Farming Systems**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | Horizon Europe |
+| Period | September 2022 – August 2027 |
+| Grant agreement | 101059609 |
+| My involvement | Researcher, University of Bologna |
+| Status | Ongoing |
+
+## Project overview
+
+Re-Livestock investigates strategies to improve
+the resilience of livestock production systems
+to climate change while reducing their
+environmental impact.
+
+The project combines approaches related to
+animal breeding, management, welfare and
+environmental sustainability across different
+livestock production systems.
+
+## My research contribution
+
+My involvement is associated with animal
+genetics and genomic research activities
+within the University of Bologna team.
+
+Specific datasets, analytical methods and
+scientific outputs will be documented here
+as they become available.
+
+## Research keywords
+
+Livestock resilience · Animal genetics ·
+Climate adaptation · Animal welfare ·
+Sustainable livestock systems
+
+## Related research areas
+
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
+
+[Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
+
+## Project links
+
+[Official CORDIS record](https://cordis.europa.eu/project/id/101059609)
+
+[Project website](https://re-livestock.eu/)
