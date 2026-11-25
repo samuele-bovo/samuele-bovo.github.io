@@ -1,0 +1,33 @@
+
+---
+title: "Research Projects"
+pagetitle: "Research Projects | Samuele Bovo"
+description: "Funded research projects and scientific contributions of Samuele Bovo in animal genomics, phenomics, metabolomics, biodiversity and computational biology."
+toc: false
+
+listing:
+  contents: "projects"
+  type: grid
+  grid-columns: 2
+  grid-item-border: true
+  max-description-length: 220
+  sort: "title asc"
+  sort-ui: false
+  filter-ui: true
+  categories: false
+  page-size: 30
+---
+
+This page presents research projects in which
+I am or have been involved, including
+competitive research grants, international
+collaborations and methodological activities.
+
+For each project, the information includes
+the funding programme, research objectives,
+my scientific contribution and links to
+related research areas.
+
+The projects are presented as individual
+entries to provide further information on
+research activities, methods and results.
