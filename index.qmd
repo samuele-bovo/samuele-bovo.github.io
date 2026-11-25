@@ -233,7 +233,7 @@ explore my [Research](research.qmd) and
 
 <h3><i class="bi bi-geo-alt" aria-hidden="true"></i> Affiliation</h3>
 
-Department of Agricultural and Food Sciences (DISTAL)
+Dpt. of Agricultural and Food Sciences
 
 University of Bologna, Italy
 
