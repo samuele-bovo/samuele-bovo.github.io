@@ -10,7 +10,7 @@ categories:
   - Honey DNA
   - Bioinformatics
 toc: false
-image: ../../images/ehoney-logo.png
+image: ../../images/ehoney-logo.jpg
 ---
 
 **Computational-intensive analysis of honey-derived
