@@ -1,0 +1,433 @@
+
+---
+title: "Events"
+pagetitle: "Scientific Events & Conferences | Samuele Bovo"
+description: "Upcoming scientific events, conference presentations and scientific roles of Samuele Bovo in animal genetics, livestock phenomics, metabolomics, genomics and artificial intelligence."
+toc: true
+toc-title: "On this page"
+toc-depth: 2
+---
+
+Scientific conferences, oral presentations and
+community activities related to my research in
+animal genetics, molecular phenomics, metabolomics,
+population genomics and computational biology.
+
+This page highlights selected scientific contributions
+and upcoming events. It does not include all
+conferences I have attended.
+
+## <i class="bi bi-calendar-event events-icon" aria-hidden="true"></i> Upcoming Events
+
+::: {.event-card .event-upcoming}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+### ISAG 2027
+
+**41st International Society for Animal Genetics Conference**
+
+:::
+
+::: {.event-year}
+2027
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Perugia, Italy  
+<i class="bi bi-calendar3"></i> 27 June – 2 July 2027
+
+**Participation:** Planned
+
+*Presentation details coming soon.*
+
+[Official conference website](https://www.isag.us/2027/)
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
+
+:::
+
+:::
+
+## <i class="bi bi-calendar-check events-icon" aria-hidden="true"></i> Past Events & Scientific Contributions
+
+### 2026
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### WCGALP 2026
+
+**World Congress on Genetics Applied to Livestock Production**
+
+:::
+
+::: {.event-year}
+2026
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Madison, Wisconsin, USA  
+<i class="bi bi-calendar3"></i> 12–17 June 2026
+
+**Role:** Oral presentation
+
+*Integrative metabolomic-genomic analyses uncover
+key regulators of metabolism in growing Duroc male pigs.*
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
+
+**Related projects:** 
+[Re-Livestock](projects/re-livestock/index.qmd) ·
+[FEEDTHEPIG](projects/feedthepig/index.qmd)
+
+:::
+
+:::
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### AI4AS 2026
+
+**2nd EAAP Artificial Intelligence for Animal Science Conference**
+
+:::
+
+::: {.event-year}
+2026
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Ghent, Belgium  
+<i class="bi bi-calendar3"></i> 29–30 June 2026
+
+**Roles:** Oral presentation · Session Co-Chair
+
+**Session 4:** AI for Science
+
+*AI-driven exploration of molecular data in
+animal science: applications in genomics and
+metabolomics to dissect the animal phenome.*
+
+::: {.event-related}
+
+**Related research:** 
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
+[Bioinformatics, Systems Biology & Genome Interpretation](research.qmd#bioinformatics-systems-biology)
+
+**Related project:** 
+[ABPhenomics](projects/abphenomics/index.qmd)
+
+:::
+
+:::
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### EU-LI-PHE 2026
+
+**3rd Annual Meeting of the European Network on Livestock Phenomics**
+
+:::
+
+::: {.event-year}
+2026
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Istanbul, Türkiye  
+<i class="bi bi-calendar3"></i> 10–11 June 2026
+
+**Role:** Session Co-Chair
+
+*Session 6: Young Researchers and Innovators (YRI),
+Presentations and Engagement.*
+
+[EU-LI-PHE](https://eu-li-phe.eu/)
+
+::: {.event-related}
+
+**Related research:** 
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
+[Bioinformatics, Systems Biology & Genome Interpretation](research.qmd#bioinformatics-systems-biology)
+
+:::
+
+:::
+
+### 2025
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### EAAP 2025
+
+**76th Annual Meeting of the European Federation of Animal Science**
+
+:::
+
+::: {.event-year}
+2025
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Innsbruck, Austria  
+<i class="bi bi-calendar3"></i> 25–29 August 2025
+
+**Role:** Oral presentation
+
+*A comprehensive genetic evaluation of molecular
+phenotypes in pigs: gaining knowledge through
+metabolite ratios.*
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
+
+**Related project:** 
+[PigPhenomics](projects/pigphenomics/index.qmd)
+
+:::
+
+:::
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### ICPD 2025
+
+**19th International Conference on Production Diseases in Farm Animals**
+
+:::
+
+::: {.event-year}
+2025
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Leuven, Belgium  
+<i class="bi bi-calendar3"></i> 8–11 July 2025
+
+**Role:** Oral presentation
+
+*Investigating genetic factors affecting a
+production disease in meat rabbits: a genome-wide
+association study on susceptibility to diarrhea
+before weaning.*
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics of Complex & Production Traits](research.qmd#genomics-complex-production-traits)
+
+:::
+
+:::
+
+### 2024
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### EU-LI-PHE 2024
+
+**1st Annual Meeting of the European Network on Livestock Phenomics**
+
+:::
+
+::: {.event-year}
+2024
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Bologna, Italy  
+<i class="bi bi-calendar3"></i> 11–12 June 2024
+
+**Roles:** Oral presentation · Local organising activities
+
+*A new era in molecular phenotypes:
+high-throughput metabolomics to dissect
+the pig metabolism.*
+
+[EU-LI-PHE](https://eu-li-phe.eu/)
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
+
+**Related project:** 
+[PigPhenomics](projects/pigphenomics/index.qmd)
+
+:::
+
+:::
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### World Rabbit Congress 2024
+
+**13th World Rabbit Congress**
+
+:::
+
+::: {.event-year}
+2024
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Tarragona, Spain  
+<i class="bi bi-calendar3"></i> 2–4 October 2024
+
+**Role:** Oral presentation
+
+*Population genomic analyses describe unique
+genetic features of several rabbit breeds
+and lines.*
+
+::: {.event-related}
+
+**Related research:** 
+[Population Genomics & Biodiversity](research.qmd#population-genomics-biodiversity)
+
+:::
+
+:::
+
+### 2023 and Earlier
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### ISAG 2023
+
+**39th International Society for Animal Genetics Conference**
+
+:::
+
+::: {.event-year}
+2023
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Cape Town, South Africa  
+<i class="bi bi-calendar3"></i> 2–7 July 2023
+
+**Role:** Oral presentation
+
+*Combined targeted and untargeted metabolomics
+in pigs coupled with genomic information:
+towards a comprehensive genetic characterization
+of the pig metabolome.*
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
+
+**Related project:** 
+[PigPhenomics](projects/pigphenomics/index.qmd)
+
+:::
+
+:::
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### WCGALP 2022
+
+**World Congress on Genetics Applied to Livestock Production**
+
+:::
+
+::: {.event-year}
+2022
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Rotterdam, The Netherlands  
+<i class="bi bi-calendar3"></i> 3–8 July 2022
+
+**Role:** Oral presentation
+
+*Unravelling the genetic basis governing
+the porcine metabolism.*
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes)
+
+**Related project:** 
+[PigPhenomics](projects/pigphenomics/index.qmd)
+
+:::
+
+:::
+
+## <i class="bi bi-info-circle events-icon" aria-hidden="true"></i> Further Information
+
+These entries represent selected scientific
+presentations and conference roles.
+
+For more information about my research activities,
+publications and academic experience, see:
+
+[Research](research.qmd) ·
+[Research Projects](projects.qmd) ·
+[Academic CV](cv.qmd)
