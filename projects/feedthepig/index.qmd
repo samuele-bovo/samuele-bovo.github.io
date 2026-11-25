@@ -1,0 +1,84 @@
+
+---
+title: "FEEDTHEPIG"
+subtitle: "PRIN 2022 PNRR | 2023–2025"
+description: "Integration of metabolomics, transcriptomics and genomics to identify molecular markers for feed efficiency in Italian pig breeds."
+categories:
+  - Pig Genomics
+  - Metabolomics
+  - Transcriptomics
+  - Feed Efficiency
+  - Molecular Biomarkers
+toc: false
+---
+
+**An integrated metabolomic, transcriptomic and
+genomic approach to identify new markers for the
+genetic improvement of feed efficiency in Italian pigs**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | PRIN 2022 PNRR – NextGenerationEU |
+| Period | 2023–2025 |
+| Project code | P2022FZMJ9 |
+| Scientific coordinator | Prof. Francesca Bertolini |
+| Participating institutions | University of Bologna and University of Padova |
+| Status | Completed |
+
+## Research team and collaboration
+
+FEEDTHEPIG was coordinated by
+[Prof. Francesca Bertolini](https://www.unibo.it/sitoweb/francesca.bertolini3/en).
+
+My research activities were conducted within
+the [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en),
+led by [Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en).
+
+## Project overview
+
+FEEDTHEPIG investigated the genetic and molecular
+determinants of feed efficiency in Italian pig
+populations, with particular emphasis on Italian
+Large White and Italian Duroc breeds.
+
+The project combined high-throughput metabolomics,
+transcriptomics and genomic information to identify
+molecular biomarkers associated with feed efficiency.
+
+These approaches aimed to improve the characterization
+of feed efficiency and support genomic selection
+strategies for more sustainable pig production.
+
+## My research contribution
+
+My involvement in the project is associated with
+the computational analysis and integration of
+molecular and genomic information in pigs.
+
+Relevant research activities include the
+characterization of metabolomic variability,
+the investigation of molecular phenotypes and
+their potential relationships with complex traits.
+
+Specific project outputs and individual
+contributions will be added as documented.
+
+## Research keywords
+
+Pig genomics · Feed efficiency · Metabolomics ·
+Transcriptomics · Molecular biomarkers ·
+Multi-omics integration · Genetic improvement
+
+## Related research areas
+
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
+
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
+
+[Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
+
+## Project links
+
+[Official FEEDTHEPIG website](https://site.unibo.it/feedthepig/en)
