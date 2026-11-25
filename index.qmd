@@ -165,7 +165,7 @@ Applying environmental DNA and metagenomic approaches to biodiversity monitoring
 
 <h3>
   <a href="research.html#bioinformatics-systems-biology">
-    <i class="bi bi-cpu" aria-hidden="true"></i>
+    <i class="bi bi-puzzle" aria-hidden="true"></i>
     Bioinformatics, Systems Biology &amp; Genome Interpretation
   </a>
 </h3>
