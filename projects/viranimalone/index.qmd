@@ -76,6 +76,25 @@ Coronavirus · One Health · Bioinformatics
 
 [Environmental DNA, Metagenomics & One Health](../../research.qmd#environmental-dna-metagenomics-one-health)
 
+
+## Selected related publications
+
+::: {.publication-list}
+
+**Bovo S. et al. (2025)**  
+[Mining Porcine Blood Whole-DNA Sequencing Datasets to Uncover Pig Viromes: An Exploratory Application to Identify Potential Infecting Agents of an Undefined Disease Outbreak](https://doi.org/10.3390/vetsci12060513)  
+*Veterinary Sciences*, 12(6), 513.
+
+**Bovo S. et al. (2022)**  
+[Mining livestock genome datasets for an unconventional characterization of animal DNA viromes](https://doi.org/10.1016/j.ygeno.2022.110312)  
+*Genomics*, 114(2), 110312.
+
+**Bovo S. et al. (2021)**  
+[Describing variability in pig genes involved in coronavirus infections for a One Health perspective in conservation of animal genetic resources](https://doi.org/10.1038/s41598-021-82956-0)  
+*Scientific Reports*, 11, 3359.
+
+:::
+
 ## Project links
 
 [Official VirAnimalOne website](https://site.unibo.it/viranimalone/en)
