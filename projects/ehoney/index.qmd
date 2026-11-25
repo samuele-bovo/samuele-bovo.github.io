@@ -73,6 +73,22 @@ Environmental genomics
 
 [Bioinformatics, Systems Biology & Genome Interpretation](../../research.qmd#bioinformatics-systems-biology)
 
+
+## Selected related publications
+
+::: {.publication-list}
+
+**Taurisano V. et al. (2026)**  
+[Biogeography from a food matrix: a temporal distribution map of Apis mellifera mitochondrial DNA lineages across Italy, obtained from honey samples](https://doi.org/10.1038/s41598-026-43936-4)  
+*Scientific Reports*, 16, 13280.
+
+**Bovo S. et al. (2022)**  
+[A genotyping by sequencing approach can disclose Apis mellifera population genomic information contained in honey environmental DNA](https://doi.org/10.1038/s41598-022-24101-z)  
+*Scientific Reports*, 12, 19541.
+
+:::
+
+
 ## Project links
 
 [Animal and Food Genomics Group — EU Projects](https://site.unibo.it/animal-and-food-genomics/en/eu-funded-projects)
