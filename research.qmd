@@ -38,6 +38,10 @@ with biological pathways and complex phenotypes.
 ::: {.publication-list}
 
 **Bovo S. et al. (2026)**  
+[A genome-wide association study based on plasma high-throughput untargeted metabolomic profiles expands the number of genetically influenced metabolites in pigs](https://doi.org/10.1038/s41598-026-68614-3)  
+*Scientific Reports*.
+
+**Bovo S. et al. (2026)**  
 [Combining metabolomics and genomics to describe genetic factors affecting the metabolism in growing Duroc pigs](https://doi.org/10.1186/s12711-026-01113-1)  
 *Genetics Selection Evolution*, 58, 93.
 
@@ -53,9 +57,7 @@ with biological pathways and complex phenotypes.
 [Genome-wide association studies for 30 haematological and blood clinical-biochemical traits in Large White pigs reveal genomic regions affecting intermediate phenotypes](https://doi.org/10.1038/s41598-019-43297-1)  
 *Scientific Reports*, 9, 7003.
 
-**Bovo S. et al. (2016)**  
-[Genome-wide association study for the level of serum electrolytes in Italian Large White pigs](https://doi.org/10.1111/age.12459)  
-*Animal Genetics*, 47(5), 597–602.
+
 :::
 
 ## Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
