@@ -24,6 +24,8 @@ website:
         text: Projects
       - href: cv.qmd
         text: Academic CV
+      - href: events.qmd
+        text: Events
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/samuelebovo/
