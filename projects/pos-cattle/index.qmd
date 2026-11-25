@@ -10,6 +10,7 @@ categories:
   - Genetic Diversity
   - Animal Genetic Resources
 toc: false
+image: ../../images/poscattle-logo.png
 ---
 
 **Integration of novel phenotyping and omics
