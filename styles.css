@@ -699,3 +699,14 @@ body:has(.hero-section) .publication-list p {
   margin-bottom: 0;
   line-height: 1.6;
 }
+
+
+/* Research page — section heading icons */
+
+#quarto-content h2 .research-icon {
+  color: #4f8a83;
+  font-size: 1.25rem;
+  margin-right: 0.55rem;
+  vertical-align: 0.02em;
+}
+
