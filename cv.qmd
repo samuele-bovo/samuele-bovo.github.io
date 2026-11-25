@@ -1,0 +1,331 @@
+
+---
+title: "Academic CV"
+pagetitle: "Academic CV | Samuele Bovo"
+description: "Academic career, teaching, international research experience, MSCA fellowship, COST EU-LI-PHE activities, scientific conferences and book chapters of Samuele Bovo."
+toc: true
+toc-title: "On this page"
+toc-depth: 2
+---
+
+My academic background combines biotechnology,
+bioinformatics and computational biology with
+research in animal genetics and genomics.
+
+My current research focuses on the integration
+of genomic and metabolomic data to investigate
+molecular phenotypes and complex traits in
+livestock. I am also extending these approaches
+towards AI-assisted phenotyping and the integration
+of digital and molecular phenomic data.
+
+## Selected Academic Highlights
+
+::: {.cv-highlights}
+
+**MSCA Postdoctoral Global Fellowship — ABPhenomics (2027–2030)**
+
+Awarded a Marie Skłodowska-Curie Actions
+Postdoctoral Global Fellowship for research
+integrating artificial intelligence, digital
+phenotyping, metabolomics and genomic information
+to investigate pig behaviour and animal welfare.
+
+[ABPhenomics project](projects/abphenomics/index.qmd) |
+[European Commission — CORDIS](https://cordis.europa.eu/project/id/101282544)
+
+---
+
+**COST Action CA22112 — European Network on Livestock Phenomics (EU-LI-PHE)**
+
+Member of two working groups:
+
+- **WG2 — Genome to phenome integration**
+- **WG3 — Computational resources and methodologies for data analyses**
+
+The network promotes the development, integration
+and application of phenotyping approaches and
+computational methodologies in livestock research.
+
+[EU-LI-PHE website](https://eu-li-phe.eu/) |
+[COST Action CA22112](https://www.cost.eu/actions/CA22112/)
+
+---
+
+**Session Co-Chair — AI4AS 2026**
+
+Co-Chair of **Session 4: AI for Science** at
+the 2nd EAAP Artificial Intelligence for
+Animal Science Conference (AI4AS),
+Ghent, Belgium, 29–30 June 2026.
+
+The conference addressed applications of
+artificial intelligence and computational
+methods in animal science.
+
+:::
+
+## Academic Career
+
+::: {.cv-timeline}
+
+**2020 – Present | Assistant Professor**
+
+Department of Agricultural and Food Sciences
+(DISTAL), University of Bologna, Italy.
+
+Academic discipline: Livestock Systems,
+Animal Breeding and Genetics (AGRI-09/A).
+
+Research and teaching activities in animal
+genomics, molecular phenotyping, multi-omics
+data analysis and computational biology.
+
+[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+
+---
+
+**2018–2020 | Research Fellow**
+
+Animal Genomics Laboratory, University of Bologna.
+
+Research activities in animal genomics,
+metabolomics, population genetics and
+honey-derived environmental DNA, within
+the research group led by Prof. Luca Fontanesi.
+
+---
+
+**2014–2017 | PhD Researcher**
+
+Bologna Biocomputing Group,
+University of Bologna.
+
+Development of computational methods for
+the interpretation of biological complexity,
+with emphasis on protein interaction networks
+and functional analysis of molecular data.
+
+:::
+
+## Education and Academic Qualifications
+
+**National Scientific Habilitation (ASN)**
+
+Italian National Scientific Habilitation
+for the position of Associate Professor,
+scientific field 07/AGRI-09 — Animal Science
+and Technology.
+
+**2018 | PhD in Biotechnological and Pharmaceutical Sciences**
+
+University of Bologna.
+
+Thesis: *Development of computational methods
+for biological complexity.*
+
+**2013 | MSc in Bioinformatics**
+
+University of Bologna, 110/110 cum laude.
+
+Thesis: *Biomarkers identification in Pig:
+Metabolomics meets Genomics for the
+characterization of an animal model.*
+
+**2011 | BSc in Biotechnology**
+
+University of Bologna.
+
+## Teaching and Student Supervision
+
+### Applied Genomics
+
+**Lecturer | MSc in Bioinformatics,
+University of Bologna | 2020–Present**
+
+Teaching activities focus on the theoretical
+and practical analysis of genomic data,
+including SNP genotyping arrays,
+next-generation sequencing datasets
+and bioinformatic workflows.
+
+### Thesis Supervision
+
+Supervisor and co-supervisor of BSc and MSc
+thesis projects involving bioinformatics,
+genomics, computational biology and
+multi-omics data analysis.
+
+Research topics include genome-wide association
+studies, genomic data mining, gene networks,
+molecular phenotypes and computational methods
+for biological data interpretation.
+
+Previously, I served as a didactic tutor
+for the Laboratory of Bioinformatics 1
+at the University of Bologna (2014–2017).
+
+## International Research Experience
+
+::: {.cv-timeline}
+
+**2024 | ETH Zürich, Switzerland**
+
+**Short-Term Scientific Mission — COST CA22112
+(EU-LI-PHE)**
+
+Animal Nutrition Group.
+
+Research topic: *Exploring the use of exhalomics
+as a novel tool for pig phenotyping.*
+
+The mission investigated the potential of
+exhaled metabolomic information as an
+additional source of molecular phenotypes
+in livestock research.
+
+[COST EU-LI-PHE](https://www.cost.eu/actions/CA22112/)
+
+---
+
+**2018 | Earlham Institute, Norwich, United Kingdom**
+
+**Short-Term Scientific Mission — COST CA15112**
+
+Research topic: *Investigation of genetic
+diversity in local pig breeds through
+mining of genomic data.*
+
+---
+
+**2017 | CNB-CSIC, Madrid, Spain**
+
+**Visiting PhD Researcher**
+
+Computational Systems Biology Group.
+
+Research activities focused on the development
+of computational approaches for the
+functional interpretation of metabolomic data.
+
+:::
+
+## Fellowships, Awards and Recognition
+
+- **2026 — MSCA Postdoctoral Global Fellowship**, ABPhenomics, Horizon Europe.
+- **2024 — COST STSM Grant**, EU-LI-PHE, ETH Zürich.
+- **2019 — ISAG Travel Bursary**, 37th International Conference on Animal Genetics, Lleida, Spain.
+- **2018 — COST STSM Grant**, Earlham Institute, United Kingdom.
+- **2016 — UNIBO Launch Pad**, selected entrepreneurial team and acceleration programme.
+
+## Scientific Networks and Community Activities
+
+### COST EU-LI-PHE
+
+Active participation in the European Network
+on Livestock Phenomics (CA22112), with
+involvement in WG2 and WG3.
+
+Scientific activities include international
+collaboration, short-term scientific mobility,
+conference participation and meeting organisation.
+
+I also served as Co-Chair of the Young Researchers
+and Innovators session at the EU-LI-PHE
+3rd Annual Meeting (Istanbul, 2026).
+
+### Selected Conference Contributions
+
+**2026 — WCGALP, Madison, USA**
+
+Oral presentation on integrative metabolomic
+and genomic analyses of metabolism in growing
+Duroc pigs.
+
+**2026 — EAAP AI4AS, Ghent, Belgium**
+
+Oral presentation on AI-driven exploration
+of molecular data in animal science,
+with applications to genomics, metabolomics
+and the animal phenome.
+
+Session Co-Chair: *AI for Science.*
+
+**2025 — EAAP Annual Meeting, Innsbruck, Austria**
+
+Oral presentation on the genetic evaluation
+of molecular phenotypes in pigs using
+metabolite ratios.
+
+**2024 — EU-LI-PHE Annual Meeting, Bologna, Italy**
+
+Presentation on high-throughput metabolomics
+for the characterization of the pig metabolome.
+
+**2023 — ISAG, Cape Town, South Africa**
+
+Presentation on the integration of targeted
+and untargeted metabolomics with genomic
+information in pigs.
+
+**2022 — WCGALP, Rotterdam, The Netherlands**
+
+Presentation on the genetic basis governing
+porcine metabolism.
+
+### Scientific Event Organisation
+
+Member of organising or local committees
+for scientific events, including:
+
+- EU-LI-PHE 1st Annual Meeting (2024).
+- Agritech Spoke 1 Workshop (2024).
+- PigPhenomics Final Workshop (2023).
+- Bologna Winter Schools in Bioinformatics.
+
+## Books and Book Chapters
+
+::: {.publication-list}
+
+**Bolner M., Bovo S., Fontanesi L. (2026)**  
+Advances in metabolomics in dairy cattle genetics.  
+In *Optimising Breeding of Dairy Cows: Leveraging Genetics for More Sustainable Production*. Burleigh Dodds Science Publishing, pp. 373–388.
+
+**Fontanesi L. et al. (2026)**  
+Next Generation Sequencing for Honey Authentication.  
+In *Food Analysis: Methods and Protocols in Food Science*. Humana, New York, pp. 119–134.
+
+**Fontanesi L., Bovo S., Schiavo G. (2021)**  
+The genome of the European rabbit and genomic tools.  
+In *The Genetics and Genomics of the Rabbit*. CABI, pp. 38–42.
+
+:::
+
+## Entrepreneurship and Knowledge Transfer
+
+**2020–2023 | Co-Founder and Data Scientist — GRIFFA SRL**
+
+GRIFFA was a biotechnology startup and
+spin-off of the University of Bologna.
+
+Its activities focused on DNA-based food
+authentication and traceability, together
+with applications of genetic analysis
+to environmental monitoring.
+
+This experience provided an opportunity
+to apply genomic and bioinformatic
+methodologies beyond academic research.
+
+## Further Information
+
+For detailed information on my scientific
+activities, publications and funded projects,
+please visit the following sections:
+
+[Research Areas](research.qmd) |
+[Research Projects](projects.qmd)
+
+A more extensive curriculum vitae is available
+through my
+[University of Bologna institutional profile](https://www.unibo.it/sitoweb/samuele.bovo/cv).
