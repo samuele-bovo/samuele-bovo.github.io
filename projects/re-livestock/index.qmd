@@ -9,7 +9,7 @@ categories:
   - Climate Adaptation
   - Animal Welfare
 toc: false
-image: ../../images/Re-livestock-logo.jpg
+image: ../../images/Re-livestock-logo.png
 ---
 
 **Facilitating Innovations for Resilient Livestock Farming Systems**
