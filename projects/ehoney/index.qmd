@@ -1,0 +1,65 @@
+
+---
+title: "eHoney"
+subtitle: "EGI-ACE | 2021–2022"
+description: "Computational analysis of honey-derived environmental DNA for biodiversity monitoring and environmental genomics."
+categories:
+  - Environmental DNA
+  - Metagenomics
+  - Biodiversity
+  - Honey DNA
+  - Bioinformatics
+toc: false
+---
+
+**Computational-intensive analysis of honey-derived
+environmental DNA information to disclose the
+effect of climate change on biodiversity**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | EGI-ACE |
+| Period | 2021–2022 |
+| Research group | Animal and Food Genomics, University of Bologna |
+| Status | Completed |
+
+## Project overview
+
+eHoney explored the computational analysis
+of environmental DNA recovered from honey
+as a source of information on biodiversity
+and environmental signatures.
+
+The project addressed the processing and
+interpretation of sequencing data to
+characterize biological components
+represented in honey-derived DNA.
+
+## My research contribution
+
+My research activities are associated with
+the bioinformatic analysis and interpretation
+of honey-derived environmental DNA data.
+
+These activities connect environmental
+genomics, metagenomic characterization
+and computational analysis of biodiversity
+information.
+
+## Research keywords
+
+Honey environmental DNA · Shotgun metagenomics ·
+Biodiversity monitoring · Bioinformatics ·
+Environmental genomics
+
+## Related research areas
+
+[Environmental DNA, Metagenomics & One Health](../../research.qmd#environmental-dna-metagenomics-one-health)
+
+[Bioinformatics, Systems Biology & Genome Interpretation](../../research.qmd#bioinformatics-systems-biology)
+
+## Project links
+
+[Animal and Food Genomics Group — EU Projects](https://site.unibo.it/animal-and-food-genomics/en/eu-funded-projects)
