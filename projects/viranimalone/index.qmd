@@ -1,0 +1,80 @@
+
+---
+title: "VirAnimalOne"
+subtitle: "European Open Science Cloud | 2020–2021"
+description: "Application of animal genomics, genome mining and computational analysis of sequencing datasets to investigate viral sequences and potential coronavirus infections."
+categories:
+  - Animal Genomics
+  - Viral Metagenomics
+  - Animal Viromes
+  - One Health
+  - Bioinformatics
+toc: false
+---
+
+**Application of animal genomics and data mining
+to predict and monitor novel coronavirus
+potential infections**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding framework | European Open Science Cloud (EOSC) |
+| Period | 2020–2021 |
+| Scientific coordinator | Prof. Luca Fontanesi |
+| Institution | University of Bologna |
+| Status | Completed |
+
+## Research team and collaboration
+
+VirAnimalOne was coordinated by
+[Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en)
+within the
+[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en)
+at the University of Bologna.
+
+I contributed to the research activities
+as a member of the project team.
+
+## Project overview
+
+VirAnimalOne explored the use of animal genomic
+sequencing datasets as an unconventional
+source of information on viral sequences
+and potential infections.
+
+The project investigated computational
+approaches for mining sequencing data
+originally generated for animal genomics
+rather than viral metagenomics.
+
+These approaches can provide additional
+information on animal-associated viromes
+and support exploratory investigations
+relevant to One Health.
+
+## My research contribution
+
+My research involvement focused on
+computational approaches to the analysis
+of animal genomic sequencing datasets.
+
+The research activities are associated
+with genome mining, bioinformatic
+characterization of viral sequences
+and interpretation of animal virome data.
+
+## Research keywords
+
+Animal genomics · Viral metagenomics ·
+Genome mining · Animal viromes ·
+Coronavirus · One Health · Bioinformatics
+
+## Related research areas
+
+[Environmental DNA, Metagenomics & One Health](../../research.qmd#environmental-dna-metagenomics-one-health)
+
+## Project links
+
+[Official VirAnimalOne website](https://site.unibo.it/viranimalone/en)
