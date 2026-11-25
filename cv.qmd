@@ -267,15 +267,15 @@ for scientific events, including:
 
 **Bolner M., Bovo S., Fontanesi L. (2026)**  
 Advances in metabolomics in dairy cattle genetics.  
-In *Optimising Breeding of Dairy Cows: Leveraging Genetics for More Sustainable Production*. Burleigh Dodds Science Publishing, pp. 373–388.
+In *Optimising Breeding of Dairy Cows: Leveraging Genetics for More Sustainable Production*. Burleigh Dodds Science Publishing, pp. 373–388. [Book](https://doi.org/10.19103/AS.2026.0173)
 
 **Fontanesi L. et al. (2026)**  
 Next Generation Sequencing for Honey Authentication.  
-In *Food Analysis: Methods and Protocols in Food Science*. Humana, New York, pp. 119–134.
+In *Food Analysis: Methods and Protocols in Food Science*. Humana, New York, pp. 119–134. [Book](https://doi.org/10.1007/978-1-0716-5543-6_10)
 
 **Fontanesi L., Bovo S., Schiavo G. (2021)**  
 The genome of the European rabbit and genomic tools.  
-In *The Genetics and Genomics of the Rabbit*. CABI, pp. 38–42.
+In *The Genetics and Genomics of the Rabbit*. CABI, pp. 38–42. [Book](https://doi.org/10.1079/9781780643342.0003)
 
 :::
 
@@ -283,7 +283,7 @@ In *The Genetics and Genomics of the Rabbit*. CABI, pp. 38–42.
 
 **2020–2023 | Co-Founder and Data Scientist — GRIFFA SRL**
 
-GRIFFA was a biotechnology startup and
+[GRIFFA](https://www.linkedin.com/company/griffa-srl/) was a biotechnology startup and
 spin-off of the University of Bologna.
 
 Its activities focused on DNA-based food
