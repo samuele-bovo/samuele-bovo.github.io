@@ -38,7 +38,10 @@ University of Bologna, Italy
 
 ::: {.msca-highlight}
 
-**Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow**
+<p class="msca-title">
+  <i class="bi bi-award" aria-hidden="true"></i>
+  <strong>Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow</strong>
+</p>
 
 [ABPhenomics](projects/abphenomics/index.qmd) —
 Transforming animal breeding through phenomic approaches that integrate digital and molecular phenotyping
@@ -51,7 +54,7 @@ Transforming animal breeding through phenomic approaches that integrate digital 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.home-intro-card}
 
-### Scientific Background
+<h3><i class="bi bi-mortarboard" aria-hidden="true"></i> Scientific Background</h3>
 
 My academic training spans biotechnology,
 bioinformatics and systems biology. During
@@ -70,7 +73,7 @@ animal genetics and genomics.
 ::: {.g-col-12 .g-col-md-6}
 ::: {.home-intro-card}
 
-### Research Approach
+<h3><i class="bi bi-diagram-3" aria-hidden="true"></i> Research Approach</h3>
 
 My research integrates genomic, metabolomic
 and phenotypic data to investigate the genetic
