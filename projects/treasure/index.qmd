@@ -9,6 +9,7 @@ categories:
   - Genetic Diversity
   - Animal Genetic Resources
 toc: false
+image: ../../images/treasure-logo.jpg
 ---
 
 **Diversity of local pig breeds and production
