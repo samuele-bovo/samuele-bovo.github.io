@@ -1,0 +1,89 @@
+
+---
+title: "POS-Cattle"
+subtitle: "PRIN 2022 | 2023–2025"
+description: "Integration of novel phenotypes, metabolomics and genomic data for the characterization and sustainable management of Italian autochthonous cattle genetic resources."
+categories:
+  - Cattle Genomics
+  - Molecular Phenotypes
+  - Metabolomics
+  - Genetic Diversity
+  - Animal Genetic Resources
+toc: false
+---
+
+**Integration of novel phenotyping and omics
+approaches for the sustainable management and
+breeding of autochthonous cattle genetic resources**
+
+## Project information
+
+| Field | Details |
+|---|---|
+| Funding programme | PRIN 2022 – MUR |
+| Period | 2023–2025 |
+| Project code | 2022FFR89X |
+| Scientific coordinator | Prof. Stefania Dall'Olio |
+| Participating institutions | University of Bologna and University of Parma |
+| Status | Completed |
+
+## Research team and collaboration
+
+POS-Cattle was coordinated by
+[Prof. Stefania Dall'Olio](https://www.unibo.it/sitoweb/stefania.dallolio/en).
+
+Research activities involved members of the
+[Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en),
+led by [Prof. Luca Fontanesi](https://www.unibo.it/sitoweb/luca.fontanesi/en),
+and collaborators from the University of Parma.
+
+## Project overview
+
+POS-Cattle investigated the integration of
+novel phenotyping approaches and molecular
+data for the characterization of Italian
+autochthonous cattle breeds.
+
+The project focused on genetic resources
+including Reggiana and Modenese cattle,
+combining genomic and molecular information
+to characterize biological variability
+and traits relevant to sustainable breeding.
+
+These activities contribute to understanding
+the genetic and molecular characteristics
+of local cattle populations and their
+potential use in genetic resource management.
+
+## My research contribution
+
+My involvement is associated with the
+bioinformatic and computational analysis
+of genomic and molecular datasets.
+
+The project provides a context for integrating
+molecular phenotypes with genomic information
+and investigating biological variability
+in local cattle genetic resources.
+
+Specific analyses and research outputs
+will be documented as appropriate.
+
+## Research keywords
+
+Cattle genomics · Autochthonous breeds ·
+Molecular phenotypes · Metabolomics ·
+Genetic diversity · Multi-omics integration ·
+Animal genetic resources
+
+## Related research areas
+
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
+
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
+
+[Population Genomics & Biodiversity](../../research.qmd#population-genomics-biodiversity)
+
+## Project links
+
+[Official POS-Cattle website](https://site.unibo.it/pos-cattle/it)
