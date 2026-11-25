@@ -92,7 +92,7 @@ key regulators of metabolism in growing Duroc male pigs.*
 [Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
 
 **Related projects:** 
-[Re-Livestock](projects/re-livestock/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd)
 
 :::
 
@@ -132,7 +132,7 @@ metabolomics to dissect the animal phenome.*
 ::: {.event-related}
 
 **Related research:** 
-[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 
 **Related project:** 
 [PigPhenomics](projects/pigphenomics/index.qmd)
@@ -172,7 +172,7 @@ Presentations and Engagement.*
 ::: {.event-related}
 
 **Related research:** 
-[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 :::
 
 :::
@@ -262,8 +262,8 @@ metabolite ratios.*
 [Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 
 **Related project:** 
-[PigPhenomics](projects/pigphenomics/index.qmd)
-[Re-Livestock](projects/re-livestock/index.qmd) ·
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd)
 
 
 :::
@@ -308,6 +308,50 @@ before weaning.*
 :::
 
 :::
+
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### AI4AS 2025
+
+**1st EAAP Conference on Artificial Intelligence for Animal Science**
+
+:::
+
+::: {.event-year}
+2025
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Zürich, Switzerland  
+<i class="bi bi-calendar3"></i> 4–6 June 2025
+
+**Role:** Poster presentation
+
+*Exploring the animal molecular phenome with
+machine learning algorithms: mining the plasma
+metabolome to describe differences between breeds.*
+
+::: {.event-related}
+
+**Related research:** 
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes)
+
+**Related project:** 
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd)
+
+
+:::
+
+:::
+
 
 ### 2024
 
@@ -424,7 +468,7 @@ the metabolism in pigs.*
 ::: {.event-related}
 
 **Related research:** 
-[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes)
 
 **Related project:** 
 [PigPhenomics](projects/pigphenomics/index.qmd)
@@ -473,8 +517,8 @@ of the pig metabolome.*
 [Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning)
 
 **Related project:** 
-[PigPhenomics](projects/pigphenomics/index.qmd)
-[Re-Livestock](projects/re-livestock/index.qmd) ·
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd)
 
 
 :::
