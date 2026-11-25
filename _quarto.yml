@@ -8,6 +8,10 @@ project:
 website:
   title: "Samuele Bovo"
   site-url: "https://samuele-bovo.github.io"
+  page-footer:
+    center: |
+      © 2026 Samuele Bovo.
+      All rights reserved.
 
   navbar:
     background: light
