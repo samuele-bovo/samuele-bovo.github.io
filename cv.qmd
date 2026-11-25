@@ -234,44 +234,22 @@ I also served as Co-Chair of the Young Researchers
 and Innovators session at the EU-LI-PHE
 3rd Annual Meeting (Istanbul, 2026).
 
-### Selected Conference Contributions
+### Conference Presentations and Scientific Roles
 
-**2026 — WCGALP, Madison, USA**
+I regularly contribute to international scientific
+conferences and meetings, including WCGALP,
+EAAP, ISAG, AI4AS and COST EU-LI-PHE activities.
 
-Oral presentation on integrative metabolomic
-and genomic analyses of metabolism in growing
-Duroc pigs.
+My contributions include oral presentations
+on animal genomics, molecular phenomics,
+metabolomics and computational biology,
+as well as session chairing and scientific
+event organisation.
 
-**2026 — EAAP AI4AS, Ghent, Belgium**
+A selection of conference presentations,
+scientific roles and upcoming events is
+available on my [Events](events.qmd) page.
 
-Oral presentation on AI-driven exploration
-of molecular data in animal science,
-with applications to genomics, metabolomics
-and the animal phenome.
-
-Session Co-Chair: *AI for Science.*
-
-**2025 — EAAP Annual Meeting, Innsbruck, Austria**
-
-Oral presentation on the genetic evaluation
-of molecular phenotypes in pigs using
-metabolite ratios.
-
-**2024 — EU-LI-PHE Annual Meeting, Bologna, Italy**
-
-Presentation on high-throughput metabolomics
-for the characterization of the pig metabolome.
-
-**2023 — ISAG, Cape Town, South Africa**
-
-Presentation on the integration of targeted
-and untargeted metabolomics with genomic
-information in pigs.
-
-**2022 — WCGALP, Rotterdam, The Netherlands**
-
-Presentation on the genetic basis governing
-porcine metabolism.
 
 ### Scientific Event Organisation
 
