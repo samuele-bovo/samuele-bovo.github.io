@@ -16,7 +16,7 @@ to specific biological questions.
 The following sections describe the main research
 areas and their scientific context.
 
-## Genomics & Molecular Phenotypes {#genomics-molecular-phenotypes}
+## <i class="bi bi-diagram-3 research-icon" aria-hidden="true"></i> Genomics & Molecular Phenotypes {#genomics-molecular-phenotypes}
 
 This research area investigates the genetic
 architecture of molecular and intermediate
@@ -74,7 +74,7 @@ with biological pathways and complex phenotypes.
 
 
 
-## Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
+## <i class="bi bi-graph-up research-icon" aria-hidden="true"></i> Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
 
 This research area focuses on the characterization
 of phenotypic variability through high-throughput
@@ -128,7 +128,7 @@ profiles and animal phenotypes.
 
 :::
 
-## Genomics of Complex & Production Traits {#genomics-complex-production-traits}
+## <i class="bi bi-bullseye research-icon" aria-hidden="true"></i> Genomics of Complex & Production Traits {#genomics-complex-production-traits}
 
 Genome-wide association studies and sequencing
 approaches are applied to investigate the genetic
@@ -179,7 +179,7 @@ domesticated animal populations.
 :::
 
 
-## Population Genomics & Biodiversity {#population-genomics-biodiversity}
+## <i class="bi bi-globe-europe-africa research-icon" aria-hidden="true"></i> Population Genomics & Biodiversity {#population-genomics-biodiversity}
 
 Population genomic approaches are used to
 characterize genetic diversity, population
@@ -230,7 +230,7 @@ characterization of animal genetic resources.
 
 :::
 
-## Environmental DNA, Metagenomics & One Health {#environmental-dna-metagenomics-one-health}
+## <i class="bi bi-virus research-icon" aria-hidden="true"></i> Environmental DNA, Metagenomics & One Health {#environmental-dna-metagenomics-one-health}
 
 This research area explores the information
 contained in environmental and unconventional
@@ -283,7 +283,7 @@ research and One Health questions.
 
 :::
 
-## Bioinformatics, Systems Biology & Genome Interpretation {#bioinformatics-systems-biology}
+## <i class="bi bi-puzzle research-icon" aria-hidden="true"></i> Bioinformatics, Systems Biology & Genome Interpretation {#bioinformatics-systems-biology}
 
 This research area covers the development
 and evaluation of computational methods
