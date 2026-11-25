@@ -69,6 +69,25 @@ Animal genetic resources
 
 [Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
 
+
+## Selected related publications
+
+::: {.publication-list}
+
+**Bovo S. et al. (2020)**  
+[Whole-genome sequencing of European autochthonous and commercial pig breeds allows the detection of signatures of selection for adaptation of genetic resources to different breeding and production systems](https://doi.org/10.1186/s12711-020-00553-7)  
+*Genetics Selection Evolution*, 52, 33.
+
+**Bovo S. et al. (2020)**  
+[Genome-wide detection of copy number variants in European autochthonous and commercial pig breeds by whole-genome sequencing of DNA pools identified breed-characterising copy number states](https://doi.org/10.1111/age.12954)  
+*Animal Genetics*, 51(4), 541–556.
+
+**Muñoz M. et al. (2019)**  
+[Genomic diversity, linkage disequilibrium and selection signatures in European local pig breeds assessed with a high density SNP chip](https://doi.org/10.1038/s41598-019-49830-6)  
+*Scientific Reports*, 9, 13546.
+
+:::
+
 ## Project links
 
 [Official CORDIS record](https://cordis.europa.eu/project/id/634476)
