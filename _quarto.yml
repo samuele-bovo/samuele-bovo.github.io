@@ -21,10 +21,16 @@ website:
       - href: research.qmd
         text: Research
       - href: projects.qmd
-        text: Projects        
+        text: Projects
+      - href: cv.qmd
+        text: Academic CV
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samuelebovo/
+        aria-label: LinkedIn
       - icon: github
         href: https://github.com/samuele-bovo
+        aria-label: GitHub
 
 format:
   html:
