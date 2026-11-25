@@ -41,8 +41,8 @@ University of Bologna, Italy
 **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Global Fellow**
 
 [ABPhenomics](projects/abphenomics/index.qmd) —
-AI-driven digital and molecular phenotyping
-for animal welfare.
+Transforming animal breeding through phenomic approaches that integrate digital and molecular phenotyping
+
 
 :::
 
@@ -53,11 +53,16 @@ for animal welfare.
 
 ### Scientific Background
 
-My background is in biotechnology,
-bioinformatics and systems biology,
-including the development of computational
-methods for biological networks and
-multi-omics data integration.
+My academic training spans biotechnology,
+bioinformatics and systems biology. During
+my PhD, I developed computational methods
+to investigate biological complexity, focusing
+on protein interaction networks, functional
+annotations and the interpretation of omics
+data. This background provided the methodological
+foundation for my subsequent research in
+animal genetics and genomics.
+
 
 :::
 :::
@@ -68,13 +73,13 @@ multi-omics data integration.
 ### Research Approach
 
 My research integrates genomic, metabolomic
-and phenotypic data to investigate the
-genetic architecture of complex traits.
-
-Depending on the research question,
-I develop computational methods or apply
+and phenotypic data to investigate the genetic
+architecture of complex traits and molecular
+phenotypes in animals. Depending on the research
+question, I develop computational methods,
+implement bioinformatic workflows or apply
 statistical and machine learning approaches
-to biological datasets.
+to analyse high-dimensional biological datasets.
 
 :::
 :::
