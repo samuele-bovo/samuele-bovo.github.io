@@ -349,3 +349,14 @@ header#title-block-header {
   text-decoration: underline;
 }
 
+
+/* Selected publications on homepage */
+
+body:has(.hero-section) .publication-list {
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+body:has(.hero-section) .publication-list p {
+  margin-bottom: 1rem;
+}
