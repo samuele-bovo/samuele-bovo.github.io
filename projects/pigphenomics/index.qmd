@@ -78,14 +78,33 @@ Genetic architecture · Complex traits
 
 [Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
 
+
 ## Selected related publications
 
+::: {.publication-list}
+
+**Bovo S. et al. (2026)**  
+[A genome-wide association study based on plasma high-throughput untargeted metabolomic profiles expands the number of genetically influenced metabolites in pigs](https://doi.org/10.1038/s41598-026-68614-3)  
+*Scientific Reports*.
+
+**Bolner M., Bovo S. et al. (2026)**  
+[Comparison of untargeted metabolomic patterns between Italian Landrace and Italian Large White pigs reveals distinct molecular phenotypes](https://doi.org/10.1080/1828051X.2026.2624165)  
+*Italian Journal of Animal Science*, 25(1), 190–205.
+
 **Bovo S. et al. (2025)**  
-[Merging metabolomics and genomics provides a
-catalog of genetic factors that influence
-molecular phenotypes in pigs linking relevant
-metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8)  
-*Genetics Selection Evolution*.
+[Merging metabolomics and genomics provides a catalog of genetic factors that influence molecular phenotypes in pigs linking relevant metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8)  
+*Genetics Selection Evolution*, 57, 11.
+
+**Bovo S. et al. (2025)**  
+[High-throughput untargeted metabolomics reveals metabolites and metabolic pathways that differentiate two divergent pig breeds](https://doi.org/10.1016/j.animal.2024.101393)  
+*Animal*, 19(1), 101393.
+
+**Bovo S. et al. (2025)**  
+[Description of metabolic differences between castrated males and intact gilts obtained from high-throughput metabolomics of porcine plasma](https://doi.org/10.1093/jas/skaf178)  
+*Journal of Animal Science*, 103, skaf178.
+
+:::
+
 
 ## Project links
 
