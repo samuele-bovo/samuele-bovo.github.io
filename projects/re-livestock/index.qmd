@@ -66,6 +66,8 @@ Sustainable livestock systems
 
 ## Related research areas
 
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
+
 [Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
 
 [Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
