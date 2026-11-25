@@ -84,6 +84,8 @@ conferences I have attended.
 *Integrative metabolomic-genomic analyses uncover
 key regulators of metabolism in growing Duroc male pigs.*
 
+[Official conference website](https://wcgalp.com/)
+
 ::: {.event-related}
 
 **Related research:** 
@@ -124,6 +126,8 @@ key regulators of metabolism in growing Duroc male pigs.*
 *AI-driven exploration of molecular data in
 animal science: applications in genomics and
 metabolomics to dissect the animal phenome.*
+
+[Official conference website](https://ai4as.eaap.org/)
 
 ::: {.event-related}
 
@@ -202,6 +206,8 @@ Presentations and Engagement.*
 phenotypes in pigs: gaining knowledge through
 metabolite ratios.*
 
+[Official conference website](https://eaap2025.org/)
+
 ::: {.event-related}
 
 **Related research:** 
@@ -244,6 +250,8 @@ metabolite ratios.*
 production disease in meat rabbits: a genome-wide
 association study on susceptibility to diarrhea
 before weaning.*
+
+[Official conference website](https://icpd2025.com/)
 
 ::: {.event-related}
 
@@ -325,6 +333,8 @@ the pig metabolism.*
 genetic features of several rabbit breeds
 and lines.*
 
+[Official conference website](https://www.wrc2024.com/)
+
 ::: {.event-related}
 
 **Related research:** 
@@ -363,6 +373,8 @@ and lines.*
 in pigs coupled with genomic information:
 towards a comprehensive genetic characterization
 of the pig metabolome.*
+
+[Official conference website](https://www.isag.us/2023/)
 
 ::: {.event-related}
 
@@ -404,6 +416,8 @@ of the pig metabolome.*
 
 *Unravelling the genetic basis governing
 the porcine metabolism.*
+
+[Official conference website](https://wcgalp.com/)
 
 ::: {.event-related}
 
