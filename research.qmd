@@ -60,6 +60,20 @@ with biological pathways and complex phenotypes.
 
 :::
 
+
+::: {.related-projects}
+
+**Related projects**
+
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[FEEDTHEPIG](projects/feedthepig/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd) ·
+[POS-Cattle](projects/pos-cattle/index.qmd)
+
+:::
+
+
+
 ## Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
 
 This research area focuses on the characterization
@@ -102,6 +116,18 @@ profiles and animal phenotypes.
 *Journal of Animal Science*, 93(12), 5681–5693.
 :::
 
+::: {.related-projects}
+
+**Related projects**
+
+[ABPhenomics](projects/abphenomics/index.qmd) ·
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[FEEDTHEPIG](projects/feedthepig/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd) ·
+[POS-Cattle](projects/pos-cattle/index.qmd)
+
+:::
+
 ## Genomics of Complex & Production Traits {#genomics-complex-production-traits}
 
 Genome-wide association studies and sequencing
@@ -141,6 +167,17 @@ domesticated animal populations.
 [Genome-wide association studies for seven production traits highlight genomic regions useful to dissect dry-cured ham quality and production traits in Duroc heavy pigs](https://doi.org/10.1017/S1751731118000757)  
 *Animal*, 12(9), 1777–1784.
 :::
+
+::: {.related-projects}
+
+**Related projects**
+
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[FEEDTHEPIG](projects/feedthepig/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd) ·
+
+:::
+
 
 ## Population Genomics & Biodiversity {#population-genomics-biodiversity}
 
@@ -182,6 +219,15 @@ characterization of animal genetic resources.
 **Muñoz M. et al. (2019)**  
 [Genomic diversity, linkage disequilibrium and selection signatures in European local pig breeds assessed with a high density SNP chip](https://doi.org/10.1038/s41598-019-49830-6)  
 *Scientific Reports*, 9, 13546.
+:::
+
+::: {.related-projects}
+
+**Related projects**
+
+[TREASURE](projects/treasure/index.qmd) ·
+[POS-Cattle](projects/pos-cattle/index.qmd)
+
 :::
 
 ## Environmental DNA, Metagenomics & One Health {#environmental-dna-metagenomics-one-health}
@@ -226,6 +272,15 @@ research and One Health questions.
 **Bovo S. et al. (2018)**  
 [Shotgun metagenomics of honey DNA: Evaluation of a methodological approach to describe a multi-kingdom honey bee derived environmental DNA signature](https://doi.org/10.1371/journal.pone.0205575)  
 *PLOS ONE*, 13(10), e0205575.
+:::
+
+::: {.related-projects}
+
+**Related projects**
+
+[eHoney](projects/ehoney/index.qmd) ·
+[VirAnimalOne](projects/viranimalone/index.qmd)
+
 :::
 
 ## Bioinformatics, Systems Biology & Genome Interpretation {#bioinformatics-systems-biology}
