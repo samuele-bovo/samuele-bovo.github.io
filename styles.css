@@ -317,3 +317,35 @@ header#title-block-header {
   padding: 15px 25px;
   border-bottom: 1px solid #e1e7ed;
 }
+
+
+/* Related projects in Research */
+
+.related-projects {
+  margin-top: 1.2rem;
+  margin-bottom: 2.5rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid #e3e9ef;
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: #718096;
+}
+
+.related-projects p {
+  margin-bottom: 0.35rem;
+}
+
+.related-projects strong {
+  color: #53677a;
+  font-weight: 600;
+}
+
+.related-projects a {
+  color: #245b85;
+  text-decoration: none;
+}
+
+.related-projects a:hover {
+  text-decoration: underline;
+}
+
