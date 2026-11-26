@@ -81,7 +81,7 @@ detailed as they are documented.
 Data quality control ·
 Metadata quality control ·
 mGWAS analysis ·
-Functional association analysis
+Functional association analysis ·
 Network analysis ·
 Pathway analysis ·
 Data imputation
