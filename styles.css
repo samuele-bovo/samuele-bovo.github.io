@@ -887,3 +887,64 @@ body:has(.hero-section) .publication-list p {
   color: #17324d;
   font-weight: 600;
 }
+
+
+/* Research Areas — macro cards */
+
+.research-block {
+  background: #ffffff;
+  border: 1px solid #e1e7ed;
+  border-left: 4px solid #4f8a83;
+  border-radius: 9px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Area title */
+.research-block > h2 {
+  color: #17324d;
+  font-size: 1.45rem;
+  line-height: 1.35;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  padding: 0;
+  border: none;
+}
+
+/* Scientific description */
+.research-block > p {
+  line-height: 1.7;
+  color: #53677a;
+}
+
+/* Selected publications */
+.research-block .publication-list {
+  background: #f5f8fa;
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+}
+
+/* Related projects */
+.research-block .related-projects {
+  border-top: 1px solid #e3e9ef;
+  padding-top: 0.8rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .research-block {
+    padding: 1rem;
+  }
+
+  .research-block > h2 {
+    font-size: 1.25rem;
+  }
+
+  .research-block .publication-list {
+    padding: 0.8rem;
+  }
+}
+
