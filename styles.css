@@ -864,3 +864,26 @@ body:has(.hero-section) .publication-list p {
   }
 }
 
+
+/* Project methods and approaches */
+
+.project-methods {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 0.85rem 1rem;
+  background: #f5f8fa;
+  border-left: 3px solid #4f8a83;
+  border-radius: 4px;
+}
+
+.project-methods p {
+  color: #53677a;
+  font-size: 0.83rem;
+  line-height: 1.6;
+  margin-bottom: 0.35rem;
+}
+
+.project-methods strong {
+  color: #17324d;
+  font-weight: 600;
+}
