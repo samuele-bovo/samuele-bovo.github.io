@@ -13,7 +13,7 @@ toc: false
 image: ../../images/ehoney-logo.jpg
 ---
 
-##eHoney | Computational-intensive analysis of honey-derived
+## eHoney | Computational-intensive analysis of honey-derived
 environmental DNA information to disclose the
 effect of climate change on biodiversity
 
