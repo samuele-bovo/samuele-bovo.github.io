@@ -81,6 +81,17 @@ research activities include:
 These activities represent the planned
 scientific work of the fellowship.
 
+::: {.project-methods}
+
+**Methods & approaches**
+
+Digital phenotyping · Computer vision ·
+Machine learning · Feature extraction ·
+Multimodal data integration ·
+Genomics · Metabolomics
+
+:::
+
 ## Research keywords
 
 Animal phenomics · Digital phenotyping ·
@@ -90,8 +101,7 @@ Machine learning
 
 ## Related research areas
 
-[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
-
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning) ·
 [Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
 
 ## Project links
