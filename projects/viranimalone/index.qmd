@@ -55,16 +55,37 @@ information on animal-associated viromes
 and support exploratory investigations
 relevant to One Health.
 
+
 ## My research contribution
 
-My research involvement focused on
-computational approaches to the analysis
-of animal genomic sequencing datasets.
+My research focused on the computational
+mining of animal whole-genome sequencing
+datasets to investigate viral sequences
+and characterize animal-associated DNA viromes.
 
-The research activities are associated
-with genome mining, bioinformatic
-characterization of viral sequences
-and interpretation of animal virome data.
+The analyses explored the reuse of sequencing
+data originally generated for animal genomics
+to recover information on potential viral
+agents and their distribution across datasets.
+
+These activities contributed to the
+development and application of bioinformatic
+approaches for virome characterization
+within a One Health perspective.
+
+::: {.project-methods}
+
+**Methods & approaches**
+
+NGS data analysis ·
+Data quality control ·
+Metadata quality control ·
+Sequence alignment ·
+Lowest Common Ancestor analysis ·
+Database implementation ·
+
+:::
+
 
 ## Research keywords
 
