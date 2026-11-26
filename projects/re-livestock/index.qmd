@@ -12,7 +12,7 @@ toc: false
 image: ../../images/Re-livestock-logo.png
 ---
 
-##Re-Livestock | Facilitating Innovations for Resilient Livestock Farming Systems
+## Re-Livestock | Facilitating Innovations for Resilient Livestock Farming Systems
 
 ## Project information
 
