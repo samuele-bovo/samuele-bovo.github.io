@@ -82,7 +82,7 @@ Data quality control ·
 Metadata quality control ·
 Sequence alignment ·
 Lowest Common Ancestor analysis ·
-Database implementation ·
+Database implementation
 
 :::
 
