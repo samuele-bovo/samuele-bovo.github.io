@@ -77,7 +77,8 @@ genomic applications.
 
 NGS data analysis ·
 Sequence alignment ·
-Lowest Common Ancestor analysis
+Lowest Common Ancestor analysis ·
+Database implementation
 
 :::
 
