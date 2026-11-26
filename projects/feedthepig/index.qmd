@@ -13,9 +13,7 @@ toc: false
 image: ../../images/feedthepig-logo.jpeg
 ---
 
-## FEEDTHEPIG | An integrated metabolomic, transcriptomic and
-genomic approach to identify new markers for the
-genetic improvement of feed efficiency in Italian pigs
+## FEEDTHEPIG | An integrated metabolomic, transcriptomic and genomic approach to identify new markers for the genetic improvement of feed efficiency in Italian pigs
 
 ## Project information
 
