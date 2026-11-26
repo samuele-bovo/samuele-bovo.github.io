@@ -6,12 +6,12 @@ description: "Funded research projects and scientific contributions of Samuele B
 toc: false
 
 listing:
-  contents: "projects"
+  contents: "projects/*/index.qmd"
   type: grid
   grid-columns: 2
   grid-item-border: true
   max-description-length: 220
-  sort: "title asc"
+  sort: "order asc"
   sort-ui: false
   filter-ui: true
   categories: false
