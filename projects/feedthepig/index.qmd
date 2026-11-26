@@ -83,7 +83,7 @@ Functional association analysis ·
 Network analysis ·
 Pathway analysis ·
 Random Forest ·
-Feature extraction ·
+Feature extraction
 
 :::
 
