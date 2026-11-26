@@ -71,12 +71,15 @@ research.
 
 **Methods & approaches**
 
-Metabolite GWAS ·
-Genomic–metabolomic integration ·
-Untargeted metabolomics ·
-Metabolomic profiling ·
-Statistical association analysis ·
-Functional interpretation
+Data quality control ·
+Metadata quality control ·
+mGWAS analysis ·
+Functional association analysis ·
+Network analysis ·
+Pathway analysis
+Random Forest ·
+Data imputation ·
+Feature extraction
 
 :::
 
