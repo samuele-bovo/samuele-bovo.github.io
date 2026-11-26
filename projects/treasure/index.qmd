@@ -72,12 +72,10 @@ characterization.
 
 **Methods & approaches**
 
-Whole-genome sequencing (WGS) ·
-Population genomics ·
-Genetic diversity ·
-Population structure ·
-Signatures of selection ·
-Copy number variation (CNV) analysis
+NGS data analysis ·
+Pool-seq data analysis ·
+Fixation index analysis ·
+Copy Number Variation (CNV) analysis
 
 :::
 
