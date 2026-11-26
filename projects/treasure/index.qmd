@@ -12,9 +12,9 @@ toc: false
 image: ../../images/treasure-logo.png
 ---
 
-**Diversity of local pig breeds and production
+##TREASURE | Diversity of local pig breeds and production
 systems for high quality traditional products
-and sustainable pork chains**
+and sustainable pork chains
 
 ## Project information
 
