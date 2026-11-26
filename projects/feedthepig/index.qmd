@@ -52,19 +52,36 @@ These approaches aimed to improve the characterization
 of feed efficiency and support genomic selection
 strategies for more sustainable pig production.
 
+
 ## My research contribution
 
-My involvement in the project is associated with
-the computational analysis and integration of
-molecular and genomic information in pigs.
+My research activities are associated with
+the computational characterization of
+metabolomic variability and the integration
+of molecular and genomic information in pigs.
 
-Relevant research activities include the
-characterization of metabolomic variability,
-the investigation of molecular phenotypes and
-their potential relationships with complex traits.
+The analytical approaches include the
+comparison of metabolomic profiles, the
+investigation of metabolite associations
+with complex traits and the identification
+of candidate molecular biomarkers relevant
+to feed efficiency and growth.
 
-Specific project outputs and individual
-contributions will be added as documented.
+These activities contribute to understanding
+the molecular variability underlying
+production-related traits in pig populations.
+
+::: {.project-methods}
+
+**Methods & approaches**
+
+Metabolomic profiling ·
+Data imputation
+GWAS ·
+Random Forest ·
+
+:::
+
 
 ## Research keywords
 
