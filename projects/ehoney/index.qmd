@@ -1,6 +1,7 @@
 
 ---
 title: "eHoney"
+order: 6
 subtitle: "EGI-ACE | 2021–2022"
 description: "Computational analysis of honey-derived environmental DNA for biodiversity monitoring and environmental genomics."
 categories:
