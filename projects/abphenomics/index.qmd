@@ -14,7 +14,7 @@ toc: false
 image: ../../images/abphenomics-logo.jpg
 ---
 
-##ABPhenomics | Transforming animal breeding through phenomic
+## ABPhenomics | Transforming animal breeding through phenomic
 approaches that integrate digital and molecular
 phenotyping
 
