@@ -14,9 +14,9 @@ toc: false
 image: ../../images/pigphenomics-logo.jpg
 ---
 
-**Applied phenomics and genomics in pigs for
+##PigPhenomics | Applied phenomics and genomics in pigs for
 the identification and use of new phenotypes
-in breeding plans**
+in breeding plans
 
 ## Project information
 
