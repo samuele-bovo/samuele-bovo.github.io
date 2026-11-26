@@ -80,7 +80,7 @@ Metadata quality control ·
 mGWAS analysis ·
 Functional association analysis ·
 Network analysis ·
-Pathway analysis
+Pathway analysis ·
 Random Forest ·
 Feature extraction ·
 Data imputation
