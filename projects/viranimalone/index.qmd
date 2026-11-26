@@ -13,7 +13,7 @@ toc: false
 image: ../../images/viranimalone-logo.jpeg
 ---
 
-##VirAnimalOne | Application of animal genomics and data mining
+## VirAnimalOne | Application of animal genomics and data mining
 to predict and monitor novel coronavirus
 potential infections
 
