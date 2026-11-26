@@ -1,6 +1,7 @@
 
 ---
 title: "Re-Livestock"
+order: 3
 subtitle: "Horizon Europe | 2022–2027"
 description: "European research project on climate resilience, animal breeding, livestock welfare and sustainable production systems."
 categories:
