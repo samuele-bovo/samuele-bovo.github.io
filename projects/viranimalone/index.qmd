@@ -1,6 +1,7 @@
 
 ---
 title: "VirAnimalOne"
+order: 7
 subtitle: "European Open Science Cloud | 2020–2021"
 description: "Application of animal genomics, genome mining and computational analysis of sequencing datasets to investigate viral sequences and potential coronavirus infections."
 categories:
