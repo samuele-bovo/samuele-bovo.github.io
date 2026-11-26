@@ -16,6 +16,8 @@ to specific biological questions.
 The following sections describe the main research
 areas and their scientific context.
 
+::: {.research-block}
+
 ## <i class="bi bi-diagram-3 research-icon" aria-hidden="true"></i> Genomics & Molecular Phenotypes {#genomics-molecular-phenotypes}
 
 This research area investigates the genetic
@@ -71,7 +73,9 @@ with biological pathways and complex phenotypes.
 [POS-Cattle](projects/pos-cattle/index.qmd)
 
 :::
+:::
 
+::: {.research-block}
 
 
 ## <i class="bi bi-graph-up research-icon" aria-hidden="true"></i> Metabolomics, Phenomics & Machine Learning {#metabolomics-phenomics-machine-learning}
@@ -127,6 +131,9 @@ profiles and animal phenotypes.
 [POS-Cattle](projects/pos-cattle/index.qmd)
 
 :::
+:::
+
+::: {.research-block}
 
 ## <i class="bi bi-bullseye research-icon" aria-hidden="true"></i> Genomics of Complex & Production Traits {#genomics-complex-production-traits}
 
@@ -177,7 +184,9 @@ domesticated animal populations.
 [Re-Livestock](projects/re-livestock/index.qmd) ·
 
 :::
+:::
 
+::: {.research-block}
 
 ## <i class="bi bi-globe-europe-africa research-icon" aria-hidden="true"></i> Population Genomics & Biodiversity {#population-genomics-biodiversity}
 
@@ -229,7 +238,9 @@ characterization of animal genetic resources.
 [POS-Cattle](projects/pos-cattle/index.qmd)
 
 :::
+:::
 
+::: {.research-block}
 ## <i class="bi bi-virus research-icon" aria-hidden="true"></i> Environmental DNA, Metagenomics & One Health {#environmental-dna-metagenomics-one-health}
 
 This research area explores the information
@@ -282,7 +293,9 @@ research and One Health questions.
 [VirAnimalOne](projects/viranimalone/index.qmd)
 
 :::
+:::
 
+::: {.research-block}
 ## <i class="bi bi-puzzle research-icon" aria-hidden="true"></i> Bioinformatics, Systems Biology & Genome Interpretation {#bioinformatics-systems-biology}
 
 This research area covers the development
@@ -327,4 +340,5 @@ across different biological systems.
 **Bovo S. et al. (2016)**  
 [NET-GE: a web-server for NETwork-based human gene enrichment](https://doi.org/10.1093/bioinformatics/btw508)  
 *Bioinformatics*, 32(22), 3489–3491.
+:::
 :::
