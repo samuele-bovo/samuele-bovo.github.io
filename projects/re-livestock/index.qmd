@@ -48,15 +48,38 @@ animal breeding, management, welfare and
 environmental sustainability across different
 livestock production systems.
 
+
 ## My research contribution
 
-My involvement is associated with animal
-genetics and genomic research activities
-within the University of Bologna team.
+My research activities are associated with
+the integration of genomic and metabolomic
+information to investigate molecular
+phenotypes and biological variability in pigs.
 
-Specific datasets, analytical methods and
-scientific outputs will be documented here
-as they become available.
+The analytical approaches include genome-wide
+association studies of metabolite traits,
+statistical characterization of metabolomic
+profiles and the interpretation of genomic
+regions associated with metabolic variation.
+
+These activities contribute to understanding
+the biological and genetic factors underlying
+metabolic phenotypes relevant to livestock
+research.
+
+::: {.project-methods}
+
+**Methods & approaches**
+
+Metabolite GWAS ·
+Genomic–metabolomic integration ·
+Untargeted metabolomics ·
+Metabolomic profiling ·
+Statistical association analysis ·
+Functional interpretation
+
+:::
+
 
 ## Research keywords
 
@@ -66,10 +89,8 @@ Sustainable livestock systems
 
 ## Related research areas
 
-[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
-
-[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
-
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes) ·
+[Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning) ·
 [Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
 
 
