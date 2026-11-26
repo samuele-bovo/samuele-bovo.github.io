@@ -83,8 +83,8 @@ Metadata quality control ·
 mGWAS analysis ·
 Functional association analysis
 Network analysis ·
-Pathway analysis
-
+Pathway analysis ·
+Data imputation
 
 :::
 
