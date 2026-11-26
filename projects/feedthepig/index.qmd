@@ -79,10 +79,11 @@ Data quality control ·
 Data imputation ·
 Metadata quality control ·
 mGWAS analysis ·
-Functional association analysis
+Functional association analysis ·
 Network analysis ·
 Pathway analysis ·
 Random Forest ·
+Feature extraction ·
 
 :::
 
