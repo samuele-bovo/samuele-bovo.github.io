@@ -75,12 +75,9 @@ genomic applications.
 
 **Methods & approaches**
 
-Environmental DNA (eDNA) ·
-Next-generation sequencing (NGS) ·
-Sequencing data processing ·
-Bioinformatics ·
-Population genomics ·
-Honey DNA analysis
+NGS data analysis ·
+Sequence alignment ·
+Lowest Common Ancestor analysis
 
 :::
 
