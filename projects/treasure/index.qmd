@@ -49,12 +49,38 @@ with studies on adaptation, production traits
 and the sustainability of traditional
 pork production chains.
 
+
 ## My research contribution
 
-My research involvement is related to
-the genomic characterization of pig
-populations and the analysis of genetic
-diversity and population structure.
+My research focused on the genomic
+characterization of European local and
+commercial pig breeds using whole-genome
+sequencing data.
+
+The analyses investigated genomic diversity,
+population structure, genetic differentiation
+and signatures of selection, together with
+the identification and characterization
+of copy number variants (CNVs).
+
+These approaches contributed to identifying
+genomic features associated with population
+differentiation, adaptation and breed
+characterization.
+
+::: {.project-methods}
+
+**Methods & approaches**
+
+Whole-genome sequencing (WGS) ·
+Population genomics ·
+Genetic diversity ·
+Population structure ·
+Signatures of selection ·
+Copy number variation (CNV) analysis
+
+:::
+
 
 
 ## Research keywords
@@ -65,8 +91,7 @@ Animal genetic resources
 
 ## Related research areas
 
-[Population Genomics & Biodiversity](../../research.qmd#population-genomics-biodiversity)
-
+[Population Genomics & Biodiversity](../../research.qmd#population-genomics-biodiversity) ·
 [Genomics of Complex & Production Traits](../../research.qmd#genomics-complex-production-traits)
 
 
