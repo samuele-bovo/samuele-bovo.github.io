@@ -56,26 +56,33 @@ their potential applications in animal breeding.
 ## My research contribution
 
 My research activities focused on the
-analysis and interpretation of genomic
-and metabolomic data, with particular
-emphasis on molecular phenotypes and
-their genetic architecture.
+computational analysis of genomic and
+high-throughput metabolomic data to characterize
+molecular phenotypes in pigs.
 
-These activities included:
+These activities included genome-wide association
+studies (GWAS) to investigate genetic factors
+affecting metabolite variability, together with
+statistical analyses of metabolomic profiles
+and the interpretation of genomic regions
+associated with molecular traits.
 
-- Analysis of high-throughput metabolomic
-  profiles in pigs.
-- Genome-wide association analyses
-  of molecular and intermediate phenotypes.
-- Investigation of genetic factors
-  associated with metabolite variability.
-- Functional interpretation of genomic
-  associations and metabolic pathways.
+The integration of genomic and metabolomic
+information contributed to the characterization
+of the genetic architecture of the pig metabolome.
 
-My contributions also included the
-presentation of research results on
-molecular phenotyping and the genetic
-characterization of the pig metabolome.
+::: {.project-methods}
+
+**Methods & approaches**
+
+Genome-wide association studies (GWAS) ·
+Metabolite GWAS (mGWAS) ·
+Genomic–metabolomic integration ·
+High-throughput metabolomics ·
+Statistical modelling ·
+Functional gene annotation
+
+:::
 
 ## Research keywords
 
@@ -85,8 +92,7 @@ Genetic architecture · Complex traits
 
 ## Related research areas
 
-[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes)
-
+[Genomics & Molecular Phenotypes](../../research.qmd#genomics-molecular-phenotypes) ·
 [Metabolomics, Phenomics & Machine Learning](../../research.qmd#metabolomics-phenomics-machine-learning)
 
 
