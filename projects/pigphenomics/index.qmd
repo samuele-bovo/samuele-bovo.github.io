@@ -75,13 +75,15 @@ of the genetic architecture of the pig metabolome.
 
 **Methods & approaches**
 
-Genome-wide association studies (GWAS) ·
-Metabolite GWAS (mGWAS) ·
-Genomic–metabolomic integration ·
-High-throughput metabolomics ·
-Statistical modelling ·
-Functional gene annotation
-
+Data quality control ·
+Metadata quality control ·
+mGWAS analysis ·
+Functional association analysis ·
+Network analysis ·
+Pathway analysis
+Random Forest ·
+Feature extraction ·
+Data imputation
 :::
 
 ## Research keywords
