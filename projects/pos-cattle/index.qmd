@@ -56,19 +56,38 @@ the genetic and molecular characteristics
 of local cattle populations and their
 potential use in genetic resource management.
 
+
 ## My research contribution
 
-My involvement is associated with the
-bioinformatic and computational analysis
-of genomic and molecular datasets.
+My involvement in POS-Cattle is associated
+with the computational analysis and
+interpretation of genomic and molecular
+datasets from local cattle populations.
 
-The project provides a context for integrating
-molecular phenotypes with genomic information
-and investigating biological variability
-in local cattle genetic resources.
+The research context involves the integration
+of novel phenotypes and omics information
+to investigate biological variability
+and support the characterization of
+autochthonous cattle genetic resources.
 
-Specific analyses and research outputs
-will be documented as appropriate.
+My specific analytical contributions
+and methodological outputs will be
+detailed as they are documented.
+
+::: {.project-methods}
+
+**Methods & approaches**
+
+Data quality control ·
+Metadata quality control ·
+mGWAS analysis ·
+Functional association analysis
+Network analysis ·
+Pathway analysis
+
+
+:::
+
 
 ## Research keywords
 
