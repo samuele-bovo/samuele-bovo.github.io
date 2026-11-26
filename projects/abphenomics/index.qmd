@@ -1,6 +1,7 @@
 
 ---
 title: "ABPhenomics"
+order: 1
 subtitle: "MSCA Postdoctoral Global Fellowship | 2027–2030"
 pagetitle: "ABPhenomics | Samuele Bovo"
 description: "ABPhenomics is an MSCA Postdoctoral Global Fellowship investigating AI-based digital phenotyping, pig behaviour, metabolomics and genomic selection for animal welfare."
