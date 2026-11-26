@@ -85,10 +85,8 @@ scientific work of the fellowship.
 
 **Methods & approaches**
 
-Digital phenotyping · Computer vision ·
 Machine learning · Feature extraction ·
-Multimodal data integration ·
-Genomics · Metabolomics
+Multimodal data integration
 
 :::
 
