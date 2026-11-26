@@ -50,16 +50,40 @@ interpretation of sequencing data to
 characterize biological components
 represented in honey-derived DNA.
 
+
 ## My research contribution
 
-My research activities are associated with
-the bioinformatic analysis and interpretation
-of honey-derived environmental DNA data.
+My research activities focused on the
+bioinformatic analysis of honey-derived
+environmental DNA to recover biological
+and genomic information from a complex
+environmental matrix.
 
-These activities connect environmental
-genomics, metagenomic characterization
-and computational analysis of biodiversity
-information.
+The computational approaches involved
+the processing and interpretation of
+sequencing data, the characterization
+of biological components represented
+in honey DNA and the investigation of
+honey bee population genomic information.
+
+These activities contributed to exploring
+the potential of honey environmental DNA
+for biodiversity monitoring and population
+genomic applications.
+
+::: {.project-methods}
+
+**Methods & approaches**
+
+Environmental DNA (eDNA) ·
+Next-generation sequencing (NGS) ·
+Sequencing data processing ·
+Bioinformatics ·
+Population genomics ·
+Honey DNA analysis
+
+:::
+
 
 ## Research keywords
 
