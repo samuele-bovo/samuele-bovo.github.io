@@ -75,9 +75,13 @@ production-related traits in pig populations.
 
 **Methods & approaches**
 
-Metabolomic profiling ·
-Data imputation
-GWAS ·
+Data quality control ·
+Data imputation ·
+Metadata quality control ·
+mGWAS analysis ·
+Functional association analysis
+Network analysis ·
+Pathway analysis ·
 Random Forest ·
 
 :::
