@@ -13,9 +13,9 @@ toc: false
 image: ../../images/poscattle-logo.png
 ---
 
-**Integration of novel phenotyping and omics
+##POS-Cattle | Integration of novel phenotyping and omics
 approaches for the sustainable management and
-breeding of autochthonous cattle genetic resources**
+breeding of autochthonous cattle genetic resources
 
 ## Project information
 
