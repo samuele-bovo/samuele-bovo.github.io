@@ -81,8 +81,7 @@ conferences I have attended.
 
 **Role:** Oral presentation
 
-*Integrative metabolomic-genomic analyses uncover
-key regulators of metabolism in growing Duroc male pigs.* [[Abstract](https://cris.unibo.it/handle/11585/1072855)]
+*Integrative metabolomic-genomic analyses uncover key regulators of metabolism in growing Duroc male pigs.* [[Abstract](https://cris.unibo.it/handle/11585/1072855)]
 
 [Official conference website](https://wcgalp.com/)
 
@@ -123,9 +122,7 @@ key regulators of metabolism in growing Duroc male pigs.* [[Abstract](https://cr
 
 **Session 4:** AI for Science
 
-*AI-driven exploration of molecular data in
-animal science: applications in genomics and
-metabolomics to dissect the animal phenome.* [[Abtract](https://cris.unibo.it/handle/11585/1070070)]
+*AI-driven exploration of molecular data in animal science: applications in genomics and metabolomics to dissect the animal phenome.* [[Abtract](https://cris.unibo.it/handle/11585/1070070)]
 
 [Official conference website](https://ai4as.eaap.org/)
 
@@ -203,12 +200,9 @@ Presentations and Engagement.*
 
 **Role:** Oral presentation
 
-*The size of the rabbit from whole genome
-sequencing: the dwarfism in Dwarf Lop breed
-is better explained as a polygenic trait.*
+*The size of the rabbit from whole genome sequencing: the dwarfism in Dwarf Lop breed is better explained as a polygenic trait.* [[Abtract](https://cris.unibo.it/handle/11585/1043306)]
 
-*Multi-omics dissection of lipid metabolism 
-in Italian heavy pig breeds*
+*Multi-omics dissection of lipid metabolism in Italian heavy pig breeds.* [[Abtract]](https://cris.unibo.it/handle/11585/1043312)]
 
 [Official conference website](https://www.aspa2025.it/)
 
@@ -249,9 +243,7 @@ in Italian heavy pig breeds*
 
 **Role:** Oral presentation
 
-*A comprehensive genetic evaluation of molecular
-phenotypes in pigs: gaining knowledge through
-metabolite ratios.*
+*A comprehensive genetic evaluation of molecular phenotypes in pigs: gaining knowledge through metabolite ratios.* [[Abtract](https://cris.unibo.it/handle/11585/1022172)]
 
 [Official conference website](https://eaap2025.org/)
 
@@ -293,10 +285,8 @@ metabolite ratios.*
 
 **Role:** Oral presentation
 
-*Investigating genetic factors affecting a
-production disease in meat rabbits: a genome-wide
-association study on susceptibility to diarrhea
-before weaning.*
+*Investigating genetic factors affecting a production disease in meat rabbits: a genome-wide
+association study on susceptibility to diarrhea before weaning.* [[Abtract](https://cris.unibo.it/handle/11585/1019427)]
 
 [Official conference website](https://icpd2025.com/)
 
@@ -334,8 +324,7 @@ before weaning.*
 **Role:** Poster presentation
 
 *Exploring the animal molecular phenome with
-machine learning algorithms: mining the plasma
-metabolome to describe differences between breeds.*
+machine learning algorithms: mining the plasma metabolome to describe differences between breeds.* [[Abtract](https://cris.unibo.it/handle/11585/1017558)]
 
 ::: {.event-related}
 
@@ -378,9 +367,7 @@ metabolome to describe differences between breeds.*
 
 **Roles:** Oral presentation · Local organising activities
 
-*A new era in molecular phenotypes:
-high-throughput metabolomics to dissect
-the pig metabolism.*
+*A new era in molecular phenotypes: high-throughput metabolomics to dissect the pig metabolism.*
 
 [EU-LI-PHE](https://eu-li-phe.eu/)
 
@@ -420,9 +407,7 @@ the pig metabolism.*
 
 **Role:** Oral presentation
 
-*Population genomic analyses describe unique
-genetic features of several rabbit breeds
-and lines.*
+*Population genomic analyses describe unique genetic features of several rabbit breeds and lines.* [[Abtract](https://cris.unibo.it/handle/11585/994962)]
 
 [Official conference website](https://www.wrc2024.com/)
 
@@ -461,9 +446,7 @@ and lines.*
 
 **Role:** Oral presentation
 
-*Whole metabolome and genome analyses provide
-information on the genetic variability affecting
-the metabolism in pigs.*
+*Whole metabolome and genome analyses provide information on the genetic variability affecting the metabolism in pigs.* [[Abtract](https://cris.unibo.it/handle/11585/955028)]
 
 ::: {.event-related}
 
@@ -503,10 +486,8 @@ the metabolism in pigs.*
 
 **Role:** Oral presentation
 
-*Combined targeted and untargeted metabolomics
-in pigs coupled with genomic information:
-towards a comprehensive genetic characterization
-of the pig metabolome.*
+*Combined targeted and untargeted metabolomics in pigs coupled with genomic information: towards a comprehensive genetic characterization
+of the pig metabolome.* [[Abtract](https://cris.unibo.it/handle/11585/955038)]
 
 [Official conference website](https://www.isag.us/2023/)
 
@@ -548,8 +529,7 @@ of the pig metabolome.*
 
 **Role:** Oral presentation
 
-*Unravelling the genetic basis governing
-the porcine metabolism.*
+*Unravelling the genetic basis governing the porcine metabolism.* [[Abtract](https://cris.unibo.it/handle/11585/900203)]
 
 [Official conference website](https://wcgalp.com/)
 
@@ -589,9 +569,7 @@ the porcine metabolism.*
 
 **Role:** Oral presentation
 
-*Mining livestock genomes for a One Health
-perspective in the management of animal
-genetic resources.*
+*Mining livestock genomes for a One Health perspective in the management of animal genetic resources.*
 
 ::: {.event-related}
 
@@ -609,11 +587,9 @@ genetic resources.*
 
 ## <i class="bi bi-info-circle events-icon" aria-hidden="true"></i> Further Information
 
-These entries represent selected scientific
-presentations and conference roles.
+These entries represent selected scientific presentations and conference roles.
 
-For more information about my research activities,
-publications and academic experience, see:
+For more information about my research activities, publications and academic experience, see:
 
 [Research](research.qmd) ·
 [Research Projects](projects.qmd) ·
