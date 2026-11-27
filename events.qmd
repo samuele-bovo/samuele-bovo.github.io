@@ -9,7 +9,7 @@ toc-depth: 2
 open-graph:
   title: "Scientific Events & Conferences | Samuele Bovo"
   description: "Scientific presentations, international conferences and academic activities in animal genetics, genomics, molecular phenomics, metabolomics and artificial intelligence."
-  images/og-events.svg
+  image: images/og-events.svg
 ---
 
 Scientific conferences, oral presentations and
