@@ -8,6 +8,9 @@ include-in-header:
   - file: person.html
   - file: profilepage.html
   - file: publications-schema.html
+open-graph:
+  title: "Samuele Bovo | Animal Genetics, Phenomics & Bioinformatics"
+  description: "Assistant Professor at the University of Bologna. Research in animal genomics, livestock metabolomics, molecular phenomics, machine learning and multi-omics integration. MSCA Postdoctoral Global Fellowship awardee."
 ---
 
 
