@@ -1,0 +1,94 @@
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ResearchProject",
+  "@id": "https://samuele-bovo.github.io/projects/re-livestock/index.html#project",
+  "name": "Facilitating Innovations for Resilient Livestock Farming Systems",
+  "alternateName": "Re-Livestock",
+  "url": "https://samuele-bovo.github.io/projects/re-livestock/index.html",
+  "description": "Horizon Europe research project aimed at improving the resilience and sustainability of livestock farming systems in the context of climate change. Research contributions by Samuele Bovo focus on the computational analysis and integration of genomic and metabolomic data, the genetic architecture of molecular phenotypes in pigs, metabolite genome-wide association studies, molecular biomarker identification and the application of statistical and machine learning approaches to investigate biological variability and complex traits relevant to livestock production and resilience. Project period: 2022-2027.",
+
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "Horizon Europe Grant Agreement",
+    "value": "101059609"
+  },
+
+  "member": {
+    "@id": "https://samuele-bovo.github.io/#person"
+  },
+
+  "funding": {
+    "@type": "Grant",
+    "name": "Horizon Europe - Re-Livestock",
+    "identifier": "101059609",
+    "funder": {
+      "@type": "Organization",
+      "name": "European Union",
+      "url": "https://european-union.europa.eu/"
+    }
+  },
+
+  "keywords": [
+    "Animal genetics",
+    "Animal breeding",
+    "Livestock genomics",
+    "Livestock resilience",
+    "Sustainable livestock production",
+    "Climate change adaptation",
+    "Animal adaptation",
+    "Heat stress",
+    "Pig genomics",
+    "Porcine genomics",
+    "Pig metabolomics",
+    "Animal phenomics",
+    "Livestock phenomics",
+    "Molecular phenomics",
+    "Molecular phenotypes",
+    "Intermediate phenotypes",
+    "Molecular phenotyping",
+    "Genome-to-phenome integration",
+    "Genetic architecture of molecular phenotypes",
+    "Genetic architecture of complex traits",
+    "Genome-wide association studies",
+    "GWAS",
+    "Metabolite genome-wide association studies",
+    "mGWAS",
+    "Molecular quantitative trait loci",
+    "Genotype-phenotype associations",
+    "Targeted metabolomics",
+    "Untargeted metabolomics",
+    "High-throughput metabolomics",
+    "Plasma metabolome",
+    "Metabolomic profiling",
+    "Metabolomic biomarkers",
+    "Molecular biomarkers",
+    "Metabolic pathways",
+    "Metabolomic networks",
+    "Genomic-metabolomic integration",
+    "Multi-omics integration",
+    "Machine learning",
+    "Random forests",
+    "Boruta feature selection",
+    "Feature selection",
+    "Sparse partial least squares discriminant analysis",
+    "Multivariate data analysis",
+    "Statistical modelling",
+    "High-dimensional biological data analysis",
+    "Functional gene annotation",
+    "Feed efficiency",
+    "Growth traits",
+    "Production traits",
+    "Computational biology",
+    "Bioinformatics"
+  ],
+
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://samuele-bovo.github.io/projects/re-livestock/index.html",
+    "name": "Re-Livestock - Samuele Bovo",
+    "inLanguage": "en"
+  }
+}
+</script>
