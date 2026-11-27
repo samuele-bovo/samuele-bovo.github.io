@@ -9,7 +9,7 @@ toc-depth: 2
 open-graph:
   title: "Academic CV | Samuele Bovo"
   description: "Academic career, scientific expertise, international research experience, teaching, MSCA fellowship and scientific networks."
-  image: images/og-cv.svg
+  image: images/og-cv.png
 ---
 
 My academic background combines biotechnology,
