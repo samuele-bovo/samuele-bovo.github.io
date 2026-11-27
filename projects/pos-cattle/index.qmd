@@ -12,6 +12,9 @@ categories:
   - Animal Genetic Resources
 toc: false
 image: ../../images/poscattle-logo.png
+include-in-header:
+  - file: ../../person.html
+  - file: schema.html
 ---
 
 ## POS-Cattle | Integration of novel phenotyping and omics approaches for the sustainable management and breeding of autochthonous cattle genetic resources
