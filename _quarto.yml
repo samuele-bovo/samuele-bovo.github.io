@@ -18,11 +18,15 @@ website:
     style: simple
     palette: light
     language: en
+    privacy-policy-url: privacy.html
   
   page-footer:
     center: |
       © 2026 Samuele Bovo.
       All rights reserved.
+    right:
+      - text: "Privacy & Cookie Policy"
+      href: privacy.qmd
 
   navbar:
     background: light
