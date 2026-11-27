@@ -234,6 +234,8 @@ Scientific community activities include oral presentations, poster presentations
 - [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203633230): Author ID 57203633230.
 - [Google Scholar](https://scholar.google.com/citations?user=TbVbPsoAAAAJ): Scientific publications and citation profile.
 - [GitHub](https://github.com/samuele-bovo): Computational research profile.
+- [OpenAlex Author Profile](https://openalex.org/A5053752597): Author ID A5053752597. Machine-readable bibliographic profile, scientific publications, research topics, academic affiliations and scientific collaborations.
+- [Semantic Scholar Author Profile](https://www.semanticscholar.org/author/Samuele-Bovo/7512184): Scientific publications, semantic literature discovery, research expertise and citation networks.
 
 ## Contact
 
