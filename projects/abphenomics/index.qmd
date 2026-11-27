@@ -13,6 +13,9 @@ categories:
   - Pig Genomics
 toc: false
 image: ../../images/abphenomics-logo.jpg
+include-in-header:
+  - file: ../../person.html
+  - file: schema.html
 ---
 
 ## ABPhenomics | Transforming animal breeding through phenomic approaches that integrate digital and molecular phenotyping
