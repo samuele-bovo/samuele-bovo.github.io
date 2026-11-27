@@ -42,3 +42,5 @@ format:
     page-layout: full
     anchor-sections: false
     link-external-newwindow: true
+    include-in-header:
+      - file: person.html
