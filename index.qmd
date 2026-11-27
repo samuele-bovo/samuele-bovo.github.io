@@ -211,6 +211,8 @@ explore my [Research](research.qmd) and
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203633230) ·
 [ORCID](https://orcid.org/0000-0002-5712-8211) ·
 [ResearchGate](https://www.researchgate.net/profile/Samuele-Bovo) ·
+[OpenAlex](https://openalex.org/A5053752597) ·
+[Semantic Scholar](https://www.semanticscholar.org/author/Samuele-Bovo/7512184) ·
 [GitHub](https://github.com/samuele-bovo)
 
 
