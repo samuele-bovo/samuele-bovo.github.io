@@ -11,6 +11,9 @@ categories:
   - Feed Efficiency
   - Molecular Biomarkers
 toc: false
+include-in-header:
+  - file: ../../person.html
+  - file: schema.html
 image: ../../images/feedthepig-logo.jpeg
 ---
 
