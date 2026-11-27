@@ -5,6 +5,7 @@ project:
   resources:
     - "google*.html"
     - llms.txt
+    - robots.txt
 website:
   title: "Samuele Bovo"
   site-url: "https://samuele-bovo.github.io"
