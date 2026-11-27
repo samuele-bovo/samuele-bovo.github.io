@@ -9,7 +9,7 @@ toc-depth: 2
 open-graph:
   title: "Research Areas | Samuele Bovo"
   description: "Research in animal genetics, molecular phenomics, metabolite GWAS, livestock metabolomics, machine learning, population genomics, environmental DNA and bioinformatics."
-  image: images/og-research.svg
+  image: images/og-research.png
 ---
 
 My research activities cover different aspects of
