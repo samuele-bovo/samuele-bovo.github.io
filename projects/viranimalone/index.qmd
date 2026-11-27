@@ -12,6 +12,9 @@ categories:
   - Bioinformatics
 toc: false
 image: ../../images/viranimalone-logo.jpeg
+include-in-header:
+  - file: ../../person.html
+  - file: schema.html
 ---
 
 ## VirAnimalOne | Application of animal genomics and data mining to predict and monitor novel coronavirus potential infections
