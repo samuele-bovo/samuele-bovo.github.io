@@ -13,6 +13,9 @@ categories:
   - Complex Traits
 toc: false
 image: ../../images/pigphenomics-logo.jpg
+include-in-header:
+  - file: ../../person.html
+  - file: schema.html
 ---
 
 ## PigPhenomics | Applied phenomics and genomics in pigs for the identification and use of new phenotypes in breeding plans
