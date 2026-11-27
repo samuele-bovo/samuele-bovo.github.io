@@ -11,7 +11,14 @@ website:
   site-url: "https://samuele-bovo.github.io"
   open-graph:
     image: images/og-home.png
-  google-analytics: "GTM-TJS5TPMJ"
+  google-analytics:
+    tracking-id: "G-78L1WXWQMT"
+  cookie-consent:
+    type: express
+    style: simple
+    palette: light
+    language: en
+  
   page-footer:
     center: |
       © 2026 Samuele Bovo.
