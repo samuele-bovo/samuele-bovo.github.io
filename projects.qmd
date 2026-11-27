@@ -20,7 +20,7 @@ listing:
 open-graph:
   title: "Research Projects | Samuele Bovo"
   description: "National and European research projects in animal genomics, molecular phenomics, metabolomics, artificial intelligence, animal breeding and biodiversity."
-  image: images/og-projects.svg
+  image: images/og-projects.png
 ---
 
 This page presents selected research projects in which
