@@ -344,6 +344,53 @@ machine learning algorithms: mining the plasma metabolome to describe difference
 
 ### 2024
 
+
+::: {.event-card}
+
+::: {.event-heading}
+
+::: {.event-heading-text}
+
+#### EAAP 2024
+
+**75th Annual Meeting of the European Federation of Animal Science**
+
+:::
+
+::: {.event-year}
+2024
+:::
+
+:::
+
+<i class="bi bi-geo-alt"></i> Florence, Italy  
+<i class="bi bi-calendar3"></i> 1–5 September 2024
+
+**Role:** Oral presentations
+
+- *Dissecting production traits using metabolomics in pigs.* [[Abtract](https://cris.unibo.it/handle/11585/994969)]
+
+- *Integrating genomic information in metabolomic networks to dissect molecular phenotypes in pigs.* [[Abtract](https://cris.unibo.it/handle/11585/994965)]
+
+::: {.event-related}
+
+**Related research:** 
+[Genomics & Molecular Phenotypes](research.qmd#genomics-molecular-phenotypes) ·
+[Metabolomics, Phenomics & Machine Learning](research.qmd#metabolomics-phenomics-machine-learning) ·
+[Genomics of Complex & Production Traits](research.qmd#genomics-complex-production-traits)
+
+**Related projects:** 
+[PigPhenomics](projects/pigphenomics/index.qmd) ·
+[Re-Livestock](projects/re-livestock/index.qmd)
+
+:::
+
+:::
+
+
+
+
+
 ::: {.event-card}
 
 ::: {.event-heading}
