@@ -5,31 +5,120 @@
   "@type": "Person",
   "@id": "https://samuele-bovo.github.io/#person",
   "name": "Samuele Bovo",
+  "givenName": "Samuele",
+  "familyName": "Bovo",
   "url": "https://samuele-bovo.github.io/",
+  "email": "mailto:samuele.bovo@unibo.it",
   "jobTitle": "Assistant Professor in Livestock Systems, Animal Breeding and Genetics",
-  "description": "Researcher in animal genetics, genomics, metabolomics, molecular phenomics and computational biology at the University of Bologna. Research activities focus on the genetic architecture of complex and molecular phenotypes, integration of multi-omics data, population genomics, biodiversity, environmental DNA, metagenomics, machine learning and bioinformatics. Applications span livestock, aquaculture, animal genetic resources, biodiversity monitoring, animal health and food authentication.",
-  "affiliation": {
-    "@type": "CollegeOrUniversity",
-    "name": "University of Bologna",
-    "url": "https://www.unibo.it/"
+  "description": "Researcher in animal genetics, genomics, metabolomics, molecular phenomics and computational biology at the University of Bologna. Research activities focus on the genetic architecture of complex and molecular phenotypes, genome-to-phenome integration, multi-omics data analysis, population genomics, biodiversity, environmental DNA, metagenomics, machine learning and bioinformatics. Awarded a Marie Skłodowska-Curie Actions Postdoctoral Global Fellowship for ABPhenomics, focusing on the integration of digital and molecular phenotyping in pigs. Research applications span livestock, aquaculture, animal genetic resources, biodiversity monitoring, animal health, animal welfare and food authentication.",
+
+  "affiliation": [
+    {
+      "@type": "CollegeOrUniversity",
+      "@id": "https://www.unibo.it/#organization",
+      "name": "University of Bologna",
+      "alternateName": "Alma Mater Studiorum - Università di Bologna",
+      "url": "https://www.unibo.it/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Department of Agricultural and Food Sciences",
+      "alternateName": "DISTAL",
+      "url": "https://distal.unibo.it/en",
+      "parentOrganization": {
+        "@id": "https://www.unibo.it/#organization"
+      }
+    }
+  ],
+
+  "worksFor": {
+    "@id": "https://www.unibo.it/#organization"
   },
+
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Animal and Food Genomics Group",
+      "url": "https://site.unibo.it/animal-and-food-genomics/en"
+    },
+    {
+      "@type": "Organization",
+      "name": "European Network on Livestock Phenomics",
+      "alternateName": "EU-LI-PHE",
+      "identifier": "COST Action CA22112",
+      "url": "https://eu-li-phe.eu/",
+      "sameAs": "https://www.cost.eu/actions/CA22112/",
+      "description": "Member of WG2 - Genome to phenome integration and WG3 - Computational resources and methodologies for data analyses."
+    }
+  ],
+
+  "alumniOf": {
+    "@id": "https://www.unibo.it/#organization"
+  },
+
+  "award": [
+    "Marie Skłodowska-Curie Actions Postdoctoral Global Fellowship - ABPhenomics",
+    "International Society for Animal Genetics Travel Bursary (2019)"
+  ],
+
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "PhD in Biotechnological and Pharmaceutical Sciences",
+      "credentialCategory": "Doctoral degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "MSc in Bioinformatics",
+      "credentialCategory": "Master's degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "BSc in Biotechnology",
+      "credentialCategory": "Bachelor's degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Italian National Scientific Habilitation for Associate Professor in Animal Science and Technology",
+      "credentialCategory": "Academic qualification"
+    }
+  ],
+
   "knowsAbout": [
     "Animal genetics",
+    "Animal breeding",
     "Animal genomics",
     "Livestock genomics",
     "Comparative genomics",
+    "Quantitative genetics",
     "Whole-genome sequencing",
+    "Next-generation sequencing",
     "Genome-wide association studies",
+    "GWAS",
     "Quantitative trait loci",
+    "QTL mapping",
     "Genetic architecture of complex traits",
+    "Genotype-phenotype associations",
+    "Genomic data analysis",
 
     "Molecular phenotypes",
     "Intermediate phenotypes",
     "Molecular phenomics",
     "Animal phenomics",
+    "Livestock phenomics",
+    "Genome-to-phenome integration",
     "Metabolomics",
+    "Pig metabolomics",
+    "Targeted metabolomics",
+    "Untargeted metabolomics",
+    "High-throughput metabolomics",
     "Metabolite genome-wide association studies",
+    "mGWAS",
+    "Molecular quantitative trait loci",
     "Metabolomic biomarkers",
+    "Molecular biomarkers",
+    "Metabolic pathways",
+    "Metabolite ratios",
     "Haematological traits",
     "Clinical biochemical traits",
     "Multi-omics integration",
@@ -38,22 +127,42 @@
     "Artificial intelligence in animal science",
     "Computational biology",
     "Random forests",
+    "Boruta feature selection",
+    "Feature selection",
+    "Multivariate data analysis",
+    "High-dimensional biological data analysis",
+    "Statistical modelling",
     "Biological network analysis",
     "Metabolomic networks",
 
+    "Animal phenotyping",
+    "Digital phenotyping",
+    "AI-assisted animal phenotyping",
+    "Molecular phenotyping",
+    "Animal behaviour",
+    "Animal welfare",
+
     "Production traits",
+    "Feed efficiency",
+    "Growth traits",
+    "Meat quality genetics",
     "Morphological traits",
-    "Coat colour",
+    "Coat colour genetics",
     "Animal adaptation",
     "Heat stress",
 
     "Population genomics",
     "Population genetics",
     "Genetic diversity",
+    "Population structure",
+    "Genetic differentiation",
     "Signatures of selection",
     "Runs of homozygosity",
-    "Inbreeding",
+    "Genomic inbreeding",
+    "Copy number variation",
     "Animal genetic resources",
+    "Conservation genomics",
+    "Breed characterization",
 
     "Environmental DNA",
     "Environmental DNA metabarcoding",
@@ -64,29 +173,54 @@
     "Apis mellifera population genetics",
     "Viral metagenomics",
     "Animal viromes",
+    "Genome mining",
     "One Health",
     "Food authentication",
-    "food traceability",
+    "DNA-based food traceability",
 
     "Bioinformatics",
     "Systems biology",
     "Functional genomics",
     "Gene enrichment analysis",
+    "Network-based enrichment analysis",
     "Protein interaction networks",
     "Genome interpretation",
+    "Genetic variant interpretation",
     "Variant prioritization",
+    "Bioinformatic workflows",
+    "Sequencing data analysis",
+    "Sequence alignment",
 
     "Pig genomics",
+    "Porcine genomics",
     "Cattle genomics",
+    "Bovine genomics",
     "Rabbit genomics",
     "Aquaculture genomics"
   ],
+
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0000-0002-5712-8211"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Scopus Author ID",
+      "value": "57203633230"
+    }
+  ],
+
   "sameAs": [
     "https://www.unibo.it/sitoweb/samuele.bovo/en",
     "https://github.com/samuele-bovo",
     "https://orcid.org/0000-0002-5712-8211",
     "https://www.scopus.com/authid/detail.uri?authorId=57203633230",
-    "https://scholar.google.com/citations?user=TbVbPsoAAAAJ&hl"
+    "https://scholar.google.com/citations?user=TbVbPsoAAAAJ"
   ]
+}
+</script>
+
 }
 </script>
