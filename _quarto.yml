@@ -4,7 +4,7 @@ project:
   output-dir: _site
   resources:
     - "google*.html"
-
+    - llms.txt
 website:
   title: "Samuele Bovo"
   site-url: "https://samuele-bovo.github.io"
