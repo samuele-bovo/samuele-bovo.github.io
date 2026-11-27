@@ -1,0 +1,144 @@
+
+---
+title: "Privacy & Cookie Policy"
+description: "Privacy information and cookie policy for the academic and research website of Samuele Bovo."
+toc: true
+---
+
+## About this website
+
+This is the personal academic and research website
+of Samuele Bovo, Assistant Professor at the
+University of Bologna, Italy.
+
+The website provides information about research
+activities, scientific publications, funded projects,
+academic experience and scientific events.
+
+It is a personal academic website and is not an
+official institutional website of the University
+of Bologna.
+
+## Data controller
+
+Samuele Bovo
+
+Email: samuele.bovo@unibo.it
+
+## Website hosting
+
+This website is hosted through GitHub Pages.
+
+GitHub may process technical information, including
+IP addresses and connection logs, for hosting,
+security and service operation purposes.
+
+Further information is available in the
+[GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+## Website analytics
+
+This website uses Google Analytics 4 (GA4),
+provided by Google, to understand how visitors
+discover and interact with its content.
+
+Analytics information may include:
+
+- Pages visited
+- Referral sources
+- Approximate geographical location
+- Browser and device information
+- Navigation and engagement information
+- Online identifiers
+
+The purpose of this processing is to evaluate
+website usage, scientific visibility and the
+accessibility of academic content.
+
+Analytics data are not used for advertising
+or commercial profiling by the website owner.
+
+The legal basis for optional analytics processing
+is the visitor's consent under Article 6(1)(a)
+of the General Data Protection Regulation (GDPR).
+
+Further information is available in the
+[Google Privacy Policy](https://policies.google.com/privacy).
+
+## Cookies
+
+This website may use cookies and similar
+technologies for the following purposes:
+
+### Necessary cookies
+
+These support essential website functionality,
+including the storage of cookie consent preferences.
+
+### Analytics cookies
+
+Google Analytics may use cookies to distinguish
+visitors and measure website interactions.
+
+Analytics cookies are optional and are activated
+only after the visitor has provided consent.
+
+Visitors may reject analytics cookies without
+affecting access to the academic content.
+
+## Managing consent
+
+Visitors can accept or reject optional cookies
+through the cookie consent interface.
+
+Consent can be withdrawn at any time through
+the cookie preferences available on this website.
+
+Cookies can also be managed or deleted through
+the visitor's browser settings.
+
+## Data retention and international transfers
+
+Analytics data are retained according to the
+retention settings configured in Google Analytics.
+
+Google and GitHub may process information outside
+the European Economic Area, subject to the
+applicable data protection safeguards described
+in their respective privacy policies.
+
+## External links
+
+This website contains links to scientific
+publications, academic institutions, research
+projects and external scientific platforms.
+
+External websites are governed by their own
+privacy policies.
+
+## Data protection rights
+
+Under applicable data protection legislation,
+visitors may have the right to:
+
+- Access their personal data
+- Request rectification or erasure
+- Restrict processing
+- Request data portability, where applicable
+- Withdraw consent
+- Lodge a complaint with a supervisory authority
+
+For privacy-related enquiries, please contact:
+
+[samuele.bovo@unibo.it](mailto:samuele.bovo@unibo.it)
+
+The Italian data protection authority is the
+[Garante per la protezione dei dati personali](https://www.garanteprivacy.it/).
+
+## Policy updates
+
+This policy may be updated to reflect changes
+in website functionality, analytics services
+or applicable legislation.
+
+Last updated: November 2026.
