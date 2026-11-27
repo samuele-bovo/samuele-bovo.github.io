@@ -164,7 +164,7 @@ conferences I have attended.
 *Session 6: Young Researchers and Innovators (YRI),
 Presentations and Engagement.*
 
-[EU-LI-PHE](https://eu-li-phe.eu/)
+[Official event website](https://eu-li-phe.eu/)
 
 ::: {.event-related}
 
@@ -418,7 +418,7 @@ machine learning algorithms: mining the plasma metabolome to describe difference
 
 *A new era in molecular phenotypes: high-throughput metabolomics to dissect the pig metabolism.*
 
-[EU-LI-PHE](https://eu-li-phe.eu/)
+[Official event website](https://eu-li-phe.eu/)
 
 ::: {.event-related}
 
