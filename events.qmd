@@ -82,7 +82,7 @@ conferences I have attended.
 **Role:** Oral presentation
 
 *Integrative metabolomic-genomic analyses uncover
-key regulators of metabolism in growing Duroc male pigs.*
+key regulators of metabolism in growing Duroc male pigs.* [[Abstract](https://cris.unibo.it/handle/11585/1072855)]
 
 [Official conference website](https://wcgalp.com/)
 
@@ -125,7 +125,7 @@ key regulators of metabolism in growing Duroc male pigs.*
 
 *AI-driven exploration of molecular data in
 animal science: applications in genomics and
-metabolomics to dissect the animal phenome.*
+metabolomics to dissect the animal phenome.* [[Abtract](https://cris.unibo.it/handle/11585/1070070)]
 
 [Official conference website](https://ai4as.eaap.org/)
 
