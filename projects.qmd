@@ -16,6 +16,10 @@ listing:
   filter-ui: true
   categories: false
   page-size: 30
+
+open-graph:
+  title: "Research Projects | Samuele Bovo"
+  description: "National and European research projects in animal genomics, molecular phenomics, metabolomics, artificial intelligence, animal breeding and biodiversity."
 ---
 
 This page presents selected research projects in which
