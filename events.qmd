@@ -326,6 +326,8 @@ association study on susceptibility to diarrhea before weaning.* [[Abtract](http
 *Exploring the animal molecular phenome with
 machine learning algorithms: mining the plasma metabolome to describe differences between breeds.* [[Abtract](https://cris.unibo.it/handle/11585/1017558)]
 
+[Official conference website](https://ai4as.eaap.org/)
+
 ::: {.event-related}
 
 **Related research:** 
