@@ -9,6 +9,7 @@ project:
 website:
   title: "Samuele Bovo"
   site-url: "https://samuele-bovo.github.io"
+  open-graph: true
   page-footer:
     center: |
       © 2026 Samuele Bovo.
