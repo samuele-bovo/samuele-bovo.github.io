@@ -11,6 +11,9 @@ categories:
   - Animal Welfare
 toc: false
 image: ../../images/Re-livestock-logo.png
+include-in-header:
+  - file: ../../person.html
+  - file: schema.html
 ---
 
 ## Re-Livestock | Facilitating Innovations for Resilient Livestock Farming Systems
