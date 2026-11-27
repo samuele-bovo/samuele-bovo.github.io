@@ -1,0 +1,248 @@
+
+# Samuele Bovo | Animal Genetics, Molecular Phenomics and Computational Biology
+
+> Assistant Professor in Livestock Systems, Animal Breeding and Genetics at the University of Bologna (Italy), with an interdisciplinary background in biotechnology, bioinformatics, animal genomics and computational biology. Research expertise encompasses the genetic architecture of complex and molecular phenotypes, livestock metabolomics, genome-to-phenome integration, machine learning, population genomics and environmental DNA. Awarded a Marie Skłodowska-Curie Actions Postdoctoral Global Fellowship for the ABPhenomics project.
+
+Samuele Bovo is a researcher at the Department of Agricultural and Food Sciences (DISTAL), University of Bologna, and a member of the Animal and Food Genomics Group.
+
+His research combines animal genetics, molecular phenomics and computational biology to investigate the biological and genetic mechanisms underlying phenotypic variability in animals.
+
+A major component of his research concerns the integration of genomic and high-throughput metabolomic information to characterize molecular and intermediate phenotypes, identify genetically influenced metabolites, investigate metabolic pathways and discover biomarkers associated with complex traits.
+
+His methodological background combines statistical genetics, bioinformatics, machine learning, biological network analysis and the development of computational workflows for high-dimensional biological datasets.
+
+Research applications extend across livestock species, particularly pigs, cattle and rabbits, as well as aquaculture species, honey bees, animal genetic resources, environmental biodiversity and One Health.
+
+His current research trajectory increasingly focuses on animal phenomics, artificial intelligence, digital phenotyping and the integration of molecular and digital phenotypes.
+
+## Main website pages
+
+- [Academic homepage](https://samuele-bovo.github.io/): Scientific identity, research expertise, academic affiliation, MSCA fellowship and representative publications.
+- [Research](https://samuele-bovo.github.io/research.html): Six interconnected research areas, scientific contributions, methodological approaches and selected publications.
+- [Research Projects](https://samuele-bovo.github.io/projects.html): National and European research projects, individual research contributions and computational methodologies.
+- [Academic CV](https://samuele-bovo.github.io/cv.html): Academic career, education, teaching, international research experience, fellowships, scientific networks and professional activities.
+- [Scientific Events](https://samuele-bovo.github.io/events.html): Oral presentations, poster presentations, conference contributions, scientific roles and upcoming events.
+
+## Research expertise
+
+- [Genomics & Molecular Phenotypes](https://samuele-bovo.github.io/research.html#genomics-molecular-phenotypes): Investigation of the genetic architecture of molecular and intermediate phenotypes through the integration of genomic, metabolomic, haematological and biochemical data. Research includes genome-wide association studies (GWAS), metabolite GWAS (mGWAS), molecular quantitative trait loci (mQTL), metabolite ratios, genetically influenced metabolites, metabolic pathways and functional interpretation of genomic associations.
+
+- [Metabolomics, Phenomics & Machine Learning](https://samuele-bovo.github.io/research.html#metabolomics-phenomics-machine-learning): Computational characterization of the animal molecular phenome using targeted and untargeted high-throughput metabolomics. Research includes molecular biomarker identification, metabolic profiling, multivariate statistical analysis, machine learning, Random Forest, Boruta feature selection, metabolomic network analysis and the integration of molecular information with conventional animal phenotypes.
+
+- [Genomics of Complex & Production Traits](https://samuele-bovo.github.io/research.html#genomics-complex-production-traits): Investigation of genetic factors affecting livestock production, feed efficiency, growth rate, meat quality, carcass traits, morphology, coat colour, adaptation and other complex phenotypes. Research combines genomic association analyses, molecular phenotyping and biological interpretation of genotype-phenotype relationships.
+
+- [Population Genomics & Biodiversity](https://samuele-bovo.github.io/research.html#population-genomics-biodiversity): Genomic characterization of animal populations and genetic resources through whole-genome sequencing, SNP data analysis, population differentiation, genetic diversity, signatures of selection, runs of homozygosity, genomic inbreeding and structural variation. Applications include local livestock breeds, breed characterization, adaptation, conservation genomics and biodiversity.
+
+- [Environmental DNA, Metagenomics & One Health](https://samuele-bovo.github.io/research.html#environmental-dna-metagenomics-one-health): Development and application of sequencing-based and bioinformatic approaches to environmental DNA, shotgun metagenomics and the reuse of animal genomic datasets. Research includes honey-derived environmental DNA, multi-kingdom biodiversity monitoring, honey bee population genomics, animal DNA viromes, pathogen detection, food authentication and DNA-based traceability.
+
+- [Bioinformatics, Systems Biology & Genome Interpretation](https://samuele-bovo.github.io/research.html#bioinformatics-systems-biology): Development and application of computational methods for biological data analysis, sequencing data processing, genome interpretation, functional annotation, genetic variant prioritization, gene enrichment analysis and biological network analysis. Earlier research focused on protein interaction networks and systems biology.
+
+## Computational and methodological expertise
+
+Samuele Bovo has experience in the computational analysis of genomic, metabolomic and other high-dimensional biological datasets.
+
+### Statistical genetics and genomics
+
+- Genome-wide association studies (GWAS)
+- Metabolite genome-wide association studies (mGWAS)
+- Quantitative trait loci (QTL and mQTL)
+- Genotype-phenotype association analysis
+- Genetic architecture of complex traits
+- Genetic architecture of molecular phenotypes
+- Heritability estimation
+- Genome interpretation
+- Functional annotation of genomic regions
+- Genetic variant interpretation and prioritization
+
+### Metabolomics and molecular phenomics
+
+- Targeted metabolomics
+- Untargeted metabolomics
+- High-throughput metabolomic profiling
+- Plasma metabolomics
+- Pig metabolomics
+- Molecular and intermediate phenotypes
+- Metabolite ratios
+- Molecular biomarker identification
+- Metabolic pathway interpretation
+- Metabolomic network reconstruction
+- Gaussian Graphical Models (GGM)
+- Genomic-metabolomic data integration
+- Multi-omics integration
+- Genome-to-phenome integration
+
+### Machine learning and statistical data analysis
+
+- Random Forest
+- Boruta feature selection
+- Feature selection and variable importance
+- Sparse partial least squares discriminant analysis (sPLS-DA)
+- Multivariate statistical analysis
+- High-dimensional biological data analysis
+- Computational phenotyping
+- Machine learning applications in animal science
+
+### Population genomics and sequencing data analysis
+
+- Whole-genome sequencing (WGS)
+- Next-generation sequencing (NGS)
+- Pooled DNA sequencing (Pool-seq)
+- SNP data analysis
+- Variant calling
+- Allele frequency estimation
+- Population genetic differentiation
+- Fixation index (FST)
+- Pooled heterozygosity
+- Signatures of selection
+- Runs of homozygosity (ROH)
+- Genomic inbreeding
+- Copy number variation (CNV)
+- Functional variant annotation
+
+### Environmental genomics and metagenomics
+
+- Environmental DNA (eDNA)
+- Shotgun metagenomics
+- Environmental DNA metabarcoding
+- Sequence alignment
+- Taxonomic classification
+- Genomic data mining
+- Genomic data reuse
+- Honey environmental DNA analysis
+- Animal DNA virome characterization
+- Biodiversity monitoring
+- DNA-based food authentication
+
+### Bioinformatics and computational infrastructure
+
+- Python
+- R
+- Bash
+- Linux and Unix environments
+- Bioinformatic workflow development
+- High-performance computing (HPC)
+- Slurm and HTCondor
+- PLINK
+- GEMMA
+- GATK
+- BWA
+- SAMtools
+- BEDTools
+- Biological database mining
+- Functional genomics
+- Biological network analysis
+
+### Emerging and planned research directions
+
+The ABPhenomics project extends established expertise in animal genomics, metabolomics and computational biology towards:
+
+- Artificial intelligence in animal science
+- Digital phenotyping
+- AI-assisted animal phenotyping
+- Computer vision
+- Behavioural phenotyping
+- Multimodal data integration
+- Integration of digital and molecular phenotypes
+- Precision livestock farming
+- Animal behaviour and welfare
+- Computational approaches for animal breeding
+
+These research directions include planned methodological developments associated with the MSCA Postdoctoral Global Fellowship.
+
+## Research applications and animal species
+
+Research applications include:
+
+- Pig genetics, genomics and metabolomics
+- Molecular phenotyping in Italian heavy pigs
+- Genetic improvement of livestock production traits
+- Feed efficiency and growth rate
+- Meat quality and carcass characteristics
+- Livestock adaptation and resilience
+- Cattle genomics and molecular phenotyping
+- Rabbit genetics and genomics
+- Aquaculture genomics
+- Local and autochthonous animal breeds
+- Animal genetic resources
+- Conservation genomics
+- Honey bee genomics and population genetics
+- Environmental biodiversity monitoring
+- Animal health and One Health
+- Food authentication and traceability
+
+## Selected funded research projects
+
+- [ABPhenomics](https://samuele-bovo.github.io/projects/abphenomics/index.html): Marie Skłodowska-Curie Actions Postdoctoral Global Fellowship awarded to Samuele Bovo. The project focuses on the integration of digital and molecular phenotyping, artificial intelligence, genomics and metabolomics to investigate pig behaviour and animal welfare. Planned international and intersectoral research activities involve the University of Bologna, Iowa State University and PIC North America (Pig Improvement Company).
+
+- [PigPhenomics](https://samuele-bovo.github.io/projects/pigphenomics/index.html): Applied phenomics and genomics in pigs for the identification and use of new phenotypes in breeding plans. Research contributions concern the genetic architecture of the pig metabolome, metabolite GWAS, molecular quantitative trait loci, molecular phenotypes, metabolic pathways and genomic-metabolomic integration.
+
+- [Re-Livestock](https://samuele-bovo.github.io/projects/re-livestock/index.html): Horizon Europe research project on resilient livestock farming systems. Research contributions include computational analyses of genomic and metabolomic information, molecular phenotyping, genetic association studies, molecular biomarkers and biological variability in pigs.
+
+- [FEEDTHEPIG](https://samuele-bovo.github.io/projects/feedthepig/index.html): Integration of metabolomic, transcriptomic and genomic information to identify novel molecular markers for the genetic improvement of feed efficiency in Italian pigs. Research contributions concern metabolomic biomarkers, genomic-metabolomic integration, feed efficiency, growth rate and production-related phenotypes.
+
+- [POS-Cattle](https://samuele-bovo.github.io/projects/pos-cattle/index.html): Integration of novel phenotyping and omics approaches for the sustainable management and breeding of autochthonous cattle genetic resources. Research context includes cattle genomics, molecular phenotypes, genomic variability and multi-omics integration.
+
+- [VirAnimalOne](https://samuele-bovo.github.io/projects/viranimalone/index.html): Application of animal genomics and genomic data mining to investigate potential viral infections. Research contributions include mining animal whole-genome sequencing datasets, characterization of DNA viromes, viral sequence detection and investigation of host genetic variability within a One Health perspective.
+
+- [TREASURE](https://samuele-bovo.github.io/projects/treasure/index.html): European research project on local pig breeds, genetic resources and sustainable pork production. Research contributions include population genomics, pooled whole-genome sequencing, genetic differentiation, signatures of selection and copy number variation.
+
+- [eHoney](https://samuele-bovo.github.io/projects/ehoney/index.html): Computational analysis of honey-derived environmental DNA to investigate biodiversity and recover genomic information from honey bee populations.
+
+## Representative peer-reviewed scientific publications
+
+- [Merging metabolomics and genomics provides a catalog of genetic factors that influence molecular phenotypes in pigs linking relevant metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8): Bovo S. et al. (2025). Genetics Selection Evolution, 57, 11. Representative research on the genetic architecture of the pig metabolome, metabolite GWAS, metabolite ratios, molecular quantitative trait loci, metabolic networks and genomic-metabolomic integration.
+
+- [Whole-genome sequencing of European autochthonous and commercial pig breeds allows the detection of signatures of selection for adaptation of genetic resources to different breeding and production systems](https://doi.org/10.1186/s12711-020-00553-7): Bovo S. et al. (2020). Genetics Selection Evolution, 52, 33. Representative research on population genomics, Pool-seq, genomic diversity, population differentiation, fixation index and signatures of selection.
+
+- [Shotgun metagenomics of honey DNA: Evaluation of a methodological approach to describe a multi-kingdom honey bee derived environmental DNA signature](https://doi.org/10.1371/journal.pone.0205575): Bovo S. et al. (2018). PLOS ONE, 13(10), e0205575. Representative research on honey environmental DNA, shotgun metagenomics, multi-kingdom DNA signatures and biodiversity monitoring.
+
+- [Further scientific publications](https://samuele-bovo.github.io/research.html): Selected publications organized by research area.
+
+## Academic background
+
+- PhD in Biotechnological and Pharmaceutical Sciences, University of Bologna.
+- International MSc in Bioinformatics, University of Bologna.
+- BSc in Biotechnology, University of Bologna.
+- Italian National Scientific Habilitation for Associate Professor in Animal Science and Technology.
+- Lecturer in Applied Genomics for the MSc programme in Bioinformatics at the University of Bologna.
+- Marie Skłodowska-Curie Actions Postdoctoral Global Fellowship awardee.
+
+The interdisciplinary academic background combines biotechnology, bioinformatics, statistical genetics, systems biology and animal science.
+
+## International research and scientific networks
+
+- [Academic CV](https://samuele-bovo.github.io/cv.html): International research experience, academic qualifications, scientific fellowships and professional activities.
+
+- [European Network on Livestock Phenomics](https://eu-li-phe.eu/): Member of COST Action CA22112, EU-LI-PHE.
+
+- [COST Action CA22112](https://www.cost.eu/actions/CA22112/): Participation in Working Group 2 (Genome to phenome integration) and Working Group 3 (Computational resources and methodologies for data analyses).
+
+- [Scientific Events](https://samuele-bovo.github.io/events.html): Scientific contributions to international conferences including WCGALP, EAAP, ISAG, AI4AS and ASPA, as well as COST EU-LI-PHE activities.
+
+Scientific community activities include oral presentations, poster presentations, session chairing and scientific event organization.
+
+## Academic affiliation
+
+- [University of Bologna](https://www.unibo.it/): Alma Mater Studiorum - Università di Bologna, Italy.
+- [Department of Agricultural and Food Sciences](https://distal.unibo.it/en): DISTAL.
+- [Animal and Food Genomics Group](https://site.unibo.it/animal-and-food-genomics/en): Research group at the University of Bologna.
+
+## Persistent scientific identifiers and external profiles
+
+- [University of Bologna academic profile](https://www.unibo.it/sitoweb/samuele.bovo/en): Institutional academic identity.
+- [ORCID](https://orcid.org/0000-0002-5712-8211): 0000-0002-5712-8211.
+- [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57203633230): Author ID 57203633230.
+- [Google Scholar](https://scholar.google.com/citations?user=TbVbPsoAAAAJ): Scientific publications and citation profile.
+- [GitHub](https://github.com/samuele-bovo): Computational research profile.
+
+## Contact
+
+Institutional email: samuele.bovo@unibo.it
+
+Department of Agricultural and Food Sciences (DISTAL)
+University of Bologna
+Bologna, Italy
+
+## Optional
+
+- [XML Sitemap](https://samuele-bovo.github.io/sitemap.xml): Machine-readable index of website pages.
