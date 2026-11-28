@@ -17,6 +17,8 @@ His current research trajectory increasingly focuses on animal phenomics, artifi
 
 ## Main website pages
 
+- [Animal Molecular Phenomics](https://samuele-bovo.github.io/molecular-phenomics.html): Research on livestock metabolomics, metabolite GWAS, molecular biomarkers and genome-to-phenome integration, with representative publications and projects.
+
 - [Academic homepage](https://samuele-bovo.github.io/): Scientific identity, research expertise, academic affiliation, MSCA fellowship and representative publications.
 - [Research](https://samuele-bovo.github.io/research.html): Six interconnected research areas, scientific contributions, methodological approaches and selected publications.
 - [Research Projects](https://samuele-bovo.github.io/projects.html): National and European research projects, individual research contributions and computational methodologies.

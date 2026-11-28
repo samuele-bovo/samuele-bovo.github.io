@@ -20,6 +20,8 @@ to specific biological questions.
 The following sections describe the main research
 areas and their scientific context.
 
+For a focused overview of my work on molecular phenotypes, see [Animal Molecular Phenomics](molecular-phenomics.qmd).
+
 ::: {.research-block}
 
 ## <i class="bi bi-diagram-3 research-icon" aria-hidden="true"></i> Genomics & Molecular Phenotypes {#genomics-molecular-phenotypes}

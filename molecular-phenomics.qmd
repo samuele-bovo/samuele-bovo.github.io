@@ -1,0 +1,38 @@
+---
+title: "Animal Molecular Phenomics"
+pagetitle: "Animal Molecular Phenomics and Livestock Metabolomics | Samuele Bovo"
+description: "Research by Samuele Bovo at the University of Bologna on animal molecular phenomics, pig metabolomics, metabolite GWAS and genome-to-phenome integration."
+toc: true
+---
+
+Samuele Bovo is an Assistant Professor at the University of Bologna and a member of the Animal and Food Genomics Group. His research on animal molecular phenomics integrates genomic and high-throughput molecular data to investigate phenotypic variability in livestock, particularly pigs.
+
+## Molecular phenotyping in livestock
+
+Molecular phenomics uses large-scale molecular measurements to characterise biological variation and investigate its relationships with genetic background, physiological conditions and complex traits. My work focuses on targeted and untargeted metabolomics, alongside haematological and clinical-biochemical intermediate phenotypes.
+
+## Genetic architecture of the animal metabolome
+
+I combine genome-wide association studies (GWAS) with metabolomic profiles to identify genomic regions associated with metabolite concentrations and investigate their relationships with metabolic pathways. These studies contribute to genome-to-phenome integration and the interpretation of complex animal traits.
+
+Selected publications:
+
+- Bovo S. et al. (2026). [A genome-wide association study based on plasma high-throughput untargeted metabolomic profiles expands the number of genetically influenced metabolites in pigs](https://doi.org/10.1038/s41598-026-68614-3).
+- Bovo S. et al. (2026). [Combining metabolomics and genomics to describe genetic factors affecting the metabolism in growing Duroc pigs](https://doi.org/10.1186/s12711-026-01113-1).
+- Bovo S. et al. (2025). [Merging metabolomics and genomics provides a catalog of genetic factors that influence molecular phenotypes in pigs linking relevant metabolic pathways](https://doi.org/10.1186/s12711-025-00960-8).
+
+## Metabolomic biomarkers and computational phenotyping
+
+My research explores metabolic differences between breeds, sexes and physiological conditions, using statistical analysis and machine learning to identify informative molecular features. Applications include feed efficiency, growth and animal production traits.
+
+- [Identification of biomarkers for feed efficiency and growth rate by exploring the plasma metabolome of divergent heavy pigs](https://doi.org/10.1016/j.animal.2025.101725).
+- [Comparative targeted metabolomic profiles of porcine plasma and serum](https://doi.org/10.1016/j.animal.2023.101029).
+- [Deconstructing the pig sex metabolome](https://doi.org/10.2527/jas.2015-9528).
+
+## Research projects and future directions
+
+Related research projects include [PigPhenomics](projects/pigphenomics/index.qmd), [FEEDTHEPIG](projects/feedthepig/index.qmd) and [Re-Livestock](projects/re-livestock/index.qmd). The awarded MSCA Postdoctoral Global Fellowship [ABPhenomics](projects/abphenomics/index.qmd) extends this research towards the integration of digital and molecular phenotyping.
+
+## Further information
+
+[Research areas](research.qmd) · [Academic CV](cv.qmd) · [University of Bologna profile](https://www.unibo.it/sitoweb/samuele.bovo/en) · [ORCID](https://orcid.org/0000-0002-5712-8211)
