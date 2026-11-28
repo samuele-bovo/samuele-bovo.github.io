@@ -96,7 +96,6 @@ to analyse high-dimensional biological datasets.
 :::
 
 
-Explore my research on [animal molecular phenomics and livestock metabolomics](molecular-phenomics.qmd), including metabolite GWAS and genome-to-phenome integration.
 
 ## Research Areas
 
